@@ -1,0 +1,70 @@
+{
+ "source": "Auction.com Q3 2026 report via HousingWire",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Housing market",
+   "headline": [
+    "Foreclosure auctions",
+    "hit a *6-year high*"
+   ],
+   "sub": "The busiest quarter since early 2020, and the seventh straight quarter of annual gains.",
+   "fig": "+25%",
+   "fig_caption": "Completed foreclosure auctions, Q3 2026 vs. a year earlier"
+  },
+  {
+   "type": "stat",
+   "kicker": "The streak",
+   "big": "7",
+   "label": "consecutive quarters of year-over-year increases",
+   "body": "Q3 2026 posted the highest quarterly total of completed foreclosure auctions since Q1 2020."
+  },
+  {
+   "type": "stat",
+   "kicker": "Who's falling behind",
+   "big": "46%",
+   "label": "of Q3 auctions involved loans made in *2022 or later*",
+   "body": "The first wave of higher-rate, post-pandemic mortgages is now working its way through the default pipeline."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where it's happening",
+   "title": "Year-over-year change in *completed auctions*",
+   "bars": [
+    [
+     "Arkansas",
+     113
+    ],
+    [
+     "California",
+     80
+    ],
+    [
+     "Florida",
+     67
+    ],
+    [
+     "Texas",
+     54
+    ],
+    [
+     "Illinois",
+     7
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "Illinois"
+   ],
+   "note": "31 states saw increases. And scheduled auctions are up *31% YoY for November*, so the pipeline is still filling."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Normalization, *not a crash*",
+   "body": "Volume is still below pre-pandemic levels. But more distressed inventory means more deals for investor clients, and more homeowners who need a smart exit before auction day.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
