@@ -1,0 +1,47 @@
+{
+ "source": "Zillow Q3 2026 earnings via Inman",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Portals",
+   "headline": [
+    "Zillow's lead model",
+    "goes *all Preferred*"
+   ],
+   "sub": "Two-thirds of buyer connections already run through the pay-at-closing program, formerly Flex.",
+   "fig": "100%",
+   "fig_caption": "Share of connections Zillow expects Preferred to handle in the first half of 2027"
+  },
+  {
+   "type": "stat",
+   "kicker": "The ramp",
+   "big": "2/3",
+   "label": "of Q3 buyer connections went to a *Preferred partner*",
+   "body": "That is up from about one-third a year earlier. Zillow expects more than 75% by year-end."
+  },
+  {
+   "type": "points",
+   "kicker": "What's different",
+   "title": "From ads to *pay at closing*",
+   "points": [
+    "Partners pay a referral fee when a deal closes, not upfront advertising fees as under Premier Agent.",
+    "Zillow says Preferred connections close at a higher rate and earn Zillow *35% more revenue* per connection than its legacy model.",
+    "Zillow says it will keep adding agents as connection volume and agent capacity grow."
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "Why it has leverage",
+   "big": "77%",
+   "label": "of the category's monthly unique visitors went to Zillow, a *record*",
+   "body": "That is Comscore's read. Zillow's own count slipped, with monthly users down 3% to 215 million and visits down 5% to 2.3 billion."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Know where *you stand*",
+   "body": "Zillow's CEO did not spell out what happens to Premier Agent advertisers who don't qualify. If Zillow feeds your pipeline, ask your rep now, and keep building leads you own.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
