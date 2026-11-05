@@ -1,0 +1,11 @@
+{
+  "_about": "Story log for the Praedium news carousel automation. 'posted' = already used (never repeat). 'backlog' = good evergreen-ish stories saved for slow news days.",
+  "posted": [
+    {"date": "2026-11-04", "slot": "test", "title": "Foreclosure auctions hit a 6-year high", "source": "Auction.com Q3 2026 report via HousingWire", "url": "https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/", "folder": "carousels/2026-11-04-foreclosures", "instagram_media_id": "18128240087488257", "facebook_post_id": "105839225747971_1122181684112230"}
+  ],
+  "backlog": [
+    {"found": "2026-11-04", "title": "Home insurance premiums up 50%+ in 19 metros since 2021; Illinois premiums up ~50%", "sources": ["Inman, Oct 22 2026", "Newrez study (national +64% 2021-2025)"], "angle": "Hidden cost of ownership; Illinois angle"},
+    {"found": "2026-11-04", "title": "30-year mortgage rates back above 7% (Zillow 7.10% on Nov 4, 2026); purchase apps 19% below a year ago", "sources": ["Zillow via Norada, Nov 4 2026", "MBA weekly survey via HousingWire"], "angle": "Rate check; re-verify numbers before use"},
+    {"found": "2026-11-04", "title": "10 U.S. metros where home prices are falling fastest", "sources": ["Zoocasa, Nov 4 2026"], "angle": "Buyer's-market map; needs fresh fetch for the list"}
+  ]
+}
