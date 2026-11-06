@@ -1,0 +1,61 @@
+{
+ "source": "Freddie Mac, MBA, Zillow, CME data via Real Estate News",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Mortgage rates",
+   "headline": [
+    "Rates fall again,",
+    "*buyers still wait*"
+   ],
+   "sub": "A third straight weekly drop, yet purchase demand is still well below last year.",
+   "fig": "7.18%",
+   "fig_caption": "Average 30-year fixed rate, week of Nov. 5, 2026"
+  },
+  {
+   "type": "bars",
+   "kicker": "The rate path",
+   "title": "30-year fixed: *then vs. now*",
+   "bars": [
+    [
+     "A year ago",
+     6.22
+    ],
+    [
+     "Last week",
+     7.24
+    ],
+    [
+     "This week",
+     7.18
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "This week"
+   ],
+   "note": "Down from roughly 7.5% a few weeks ago, but still *0.96 points* above a year ago. The 15-year sits at 6.57%."
+  },
+  {
+   "type": "stat",
+   "kicker": "Demand check",
+   "big": "-19%",
+   "label": "purchase applications vs. *last year*",
+   "body": "Refinance applications are down 60% year over year (MBA, week ending Oct. 30). Zillow says pending sales fell 16.8% in October, the slowest October since 2018."
+  },
+  {
+   "type": "stat",
+   "kicker": "The wild card",
+   "big": "79.1%",
+   "label": "odds of a *Fed rate hike* in December",
+   "body": "Up from 66.9% a day earlier, after October added 165,000 jobs against a 59,000 forecast. Unemployment ticked down to 4.1%."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Work the *window*",
+   "body": "Rates are easing just as the slow season starts, and a hot jobs report could push them back up. Re-run payment numbers with buyers on the fence now.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

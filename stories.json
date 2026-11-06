@@ -54,15 +54,6 @@
     },
     {
       "found": "2026-11-04",
-      "title": "30-year mortgage rates back above 7% (Zillow 7.10% on Nov 4, 2026); purchase apps 19% below a year ago",
-      "sources": [
-        "Zillow via Norada, Nov 4 2026",
-        "MBA weekly survey via HousingWire"
-      ],
-      "angle": "Rate check; re-verify numbers before use"
-    },
-    {
-      "found": "2026-11-04",
       "title": "10 U.S. metros where home prices are falling fastest",
       "sources": [
         "Zoocasa, Nov 4 2026"
@@ -110,6 +101,14 @@
         "RISMedia, Nov 5 2026: https://www.rismedia.com/2026/11/05/active-inventory-grows-sellers-keep-homes-market/"
       ],
       "angle": "Strong runner-up with Chicago angle: only Midwest metro in the table with falling inventory and the largest list-price gain"
+    },
+    {
+      "found": "2026-11-06",
+      "title": "October jobs +165,000 vs 59,000 forecast, unemployment 4.1%; residential construction jobs -16,400 (largest drop since March 2021) while nonresidential +13,300; wage growth 3.1%",
+      "sources": [
+        "Real Estate News, Nov 6 2026: https://www.realestatenews.com/2026/11/06/housing-market-may-see-more-churn-after-strong-job-gains"
+      ],
+      "angle": "Builders pulling back on homes; Fed hike odds angle used in Nov 6 PM carousel"
     }
   ]
 }
