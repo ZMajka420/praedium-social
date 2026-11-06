@@ -1,0 +1,65 @@
+{
+ "source": "NAR 2026 Profile of Home Buyers and Sellers",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "NAR 2026 Profile",
+   "headline": [
+    "Agent use hits a",
+    "*four-decade high*"
+   ],
+   "sub": "NAR's annual survey shows buyers and sellers leaning on agents more, not less.",
+   "fig": "92%",
+   "fig_caption": "Share of home sellers who used an agent, an all-time high"
+  },
+  {
+   "type": "bars",
+   "kicker": "The numbers",
+   "title": "Who *used an agent*",
+   "bars": [
+    [
+     "Resale buyers",
+     93
+    ],
+    [
+     "Sellers",
+     92
+    ],
+    [
+     "All buyers",
+     90
+    ],
+    [
+     "New builds",
+     62
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Sellers"
+   ],
+   "note": "Up from 88% of buyers and 91% of sellers last year. FSBO sales stayed at *5%*, tying the all-time low."
+  },
+  {
+   "type": "stat",
+   "kicker": "Where clients come from",
+   "big": "40%",
+   "label": "of buyers found their agent through a *friend, neighbor or relative*",
+   "body": "24% of repeat buyers rehired a past agent, and 88% of buyers would reuse or recommend theirs. Just 1% found an agent through AI."
+  },
+  {
+   "type": "stat",
+   "kicker": "The long gap",
+   "big": "12",
+   "label": "years the typical seller stayed in the home, *a record*",
+   "body": "That's up from 11 last year and about double the 2000 to 2008 median of six. One in four sellers had never sold a home before."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Past clients *are pipeline*",
+   "body": "A record share of a slow market isn't more deals. But with referrals leading and sellers waiting 12 years, the job is staying in touch long after closing.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
