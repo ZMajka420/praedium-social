@@ -1,0 +1,74 @@
+{
+ "source": "Cotality US Home Price Insights, Nov. 2026 (Sept. data)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Home prices",
+   "headline": [
+    "Illinois leads the",
+    "nation in *price gains*"
+   ],
+   "sub": "Nationally, growth cooled to 1.7% and prices slipped month over month.",
+   "fig": "+6.9%",
+   "fig_caption": "Illinois single-family home prices, Sept. 2026 vs. a year earlier"
+  },
+  {
+   "type": "bars",
+   "kicker": "The leaderboard",
+   "title": "Top states for *price growth*",
+   "bars": [
+    [
+     "Illinois",
+     6.9
+    ],
+    [
+     "Rhode Island",
+     6.4
+    ],
+    [
+     "Connecticut",
+     6.0
+    ],
+    [
+     "New Jersey",
+     5.1
+    ],
+    [
+     "Ohio",
+     4.9
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "Illinois"
+   ],
+   "note": "Biggest declines: Washington -1.0%, Wyoming -0.7% and Texas -0.4%. Every Northeast and Midwest state *posted a gain*."
+  },
+  {
+   "type": "stat",
+   "kicker": "The national picture",
+   "big": "-0.3%",
+   "label": "national change, *Aug. to Sept.*",
+   "body": "The largest monthly drop since 2022. September typically brings a gain of about 0.2%. Year over year, prices are still up 1.7%."
+  },
+  {
+   "type": "points",
+   "kicker": "A split market",
+   "title": "Where prices are *moving*",
+   "points": [
+    "Many Northeast and Midwest markets are up 25% to 30% since mid-2022.",
+    "Much of the West and Texas shows little or no net growth over that stretch.",
+    "Austin fell 2.0% and Dallas 1.0% over the year.",
+    "Forecast: national growth slowing to 0.9%."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Local data *beats headlines*",
+   "body": "National prices are flattening, but tight inventory is still lifting Great Lakes markets like Illinois. Price listings off local comps, not national averages.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
