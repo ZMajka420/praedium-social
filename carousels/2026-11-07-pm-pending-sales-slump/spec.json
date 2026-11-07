@@ -1,0 +1,67 @@
+{
+ "source": "Zillow October 2026 Market Report",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Housing market",
+   "headline": [
+    "Buyers hit pause",
+    "as rates top *7%*"
+   ],
+   "sub": "The slowest October for new contracts since 2018, and the steepest annual drop since August 2023.",
+   "fig": "-16.8%",
+   "fig_caption": "Newly pending listings vs. October 2025"
+  },
+  {
+   "type": "stat",
+   "kicker": "The payment shock",
+   "big": "12.8%",
+   "label": "yearly jump in the typical mortgage payment, now *$2,004 a month*",
+   "body": "It rose 4.8% from September alone, the biggest one-month jump in four years. Rates averaged 7.33% in October vs. 6.86% in September, while home values are up just 0.7% year over year."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where sales slowed",
+   "title": "Home sales decline, *Oct. vs. a year ago*",
+   "bars": [
+    [
+     "Salt Lake City",
+     22.5
+    ],
+    [
+     "Los Angeles",
+     18
+    ],
+    [
+     "Phoenix",
+     16
+    ],
+    [
+     "U.S.",
+     8.7
+    ],
+    [
+     "Chicago",
+     6.7
+    ],
+    [
+     "Milwaukee",
+     2.1
+    ]
+   ],
+   "prefix": "-",
+   "unit": "%",
+   "highlight": [
+    "Chicago"
+   ],
+   "note": "Buffalo was the only major metro with *a gain (+1%)*. Chicago home values led the nation, up 4.8% year over year."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "The low point *may be close*",
+   "body": "Zillow expects November to slow further and December to mark the bottom. With inventory up 3.4% from last year, any dip in rates could bring sidelined buyers back fast. Keep in touch now.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
