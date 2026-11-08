@@ -1,0 +1,77 @@
+{
+ "source": "Realtor.com October 2026 Monthly Housing Report",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Chicago market",
+   "headline": [
+    "Supply jumps,",
+    "*but not in Chicago*"
+   ],
+   "sub": "Listings are up 7.4% nationally and up double digits in most big Midwest metros.",
+   "fig": "-0.2%",
+   "fig_caption": "Chicago-area active listings, Oct. 2026 vs. a year ago"
+  },
+  {
+   "type": "bars",
+   "kicker": "The Midwest picture",
+   "title": "Inventory vs. *a year ago*",
+   "bars": [
+    [
+     "Minneapolis",
+     32.7
+    ],
+    [
+     "Cincinnati",
+     21.6
+    ],
+    [
+     "Cleveland",
+     21.5
+    ],
+    [
+     "Indianapolis",
+     21.3
+    ],
+    [
+     "St. Louis",
+     20.7
+    ],
+    [
+     "Chicago",
+     -0.2
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Chicago"
+   ],
+   "note": "Chicago is the only big Midwest metro in the report where active inventory *shrank* from a year ago."
+  },
+  {
+   "type": "stat",
+   "kicker": "Prices hold up",
+   "big": "+4.1%",
+   "label": "Chicago median list price, now *$380,000*",
+   "body": "The national median list price slipped 2.2% to $415,000. Just 17.6% of Chicago listings had a price cut, vs. 20.5% nationally."
+  },
+  {
+   "type": "points",
+   "kicker": "The national backdrop",
+   "title": "A slower, *roomier* market",
+   "points": [
+    "1,183,500 active listings, up 7.4% from last October",
+    "New listings down 7.5% as fewer owners list",
+    "Homes under contract down 10.5% year over year",
+    "Median 63 days on market, up one day"
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Price to the *local* data",
+   "body": "National headlines say buyers are gaining leverage. In Chicago, tight supply is still holding prices up. Show clients metro-level numbers, and prepare buyers for competition on well-priced homes.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
