@@ -1,0 +1,48 @@
+{
+ "source": "HousingWire, The Real Deal and RISMedia reporting",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Listing rules",
+   "headline": ["MLSs take Compass", "to *federal court*"],
+   "sub": "The office exclusive fight is now in court, and the outcome could shape how agents market homes.",
+   "fig": "7",
+   "fig_caption": "MLSs now suing Compass in one New York case"
+  },
+  {
+   "type": "points",
+   "kicker": "How we got here",
+   "title": "From letters *to lawsuits*",
+   "points": [
+    "*September:* Compass sends demand letters threatening to sue MLSs that fine agents for publicly marketing office exclusives.",
+    "*Early October:* California's CRMLS sues Compass in federal court in New York. OneKey MLS later joins.",
+    "*Mid-October:* Six more MLSs file a near-identical suit, from Arizona to Colorado and North Carolina.",
+    "*Late October:* MLSListings joins, adding 6,000+ brokerages in five Northern California counties."
+   ]
+  },
+  {
+   "type": "points",
+   "kicker": "Both sides",
+   "title": "What each side *is arguing*",
+   "points": [
+    "*The MLSs:* brokers shouldn't use the MLS to find buyers while keeping their own listings out. They want a ruling that the rules are legal.",
+    "*They also ask* the court to permanently bar Compass from suing any MLS in the case over these rules.",
+    "*Compass:* 7 of the top 25 MLSs, covering 340,000 agents in 12 states, already allow office exclusives without fines."
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "The Chicago angle",
+   "big": "15%",
+   "label": "of MRED listings have gone through its *private network*, per earlier data",
+   "body": "Chicago's MLS took that network national in April. Compass was first to join, pledging to share its private exclusives and cover the cost for the first 100,000 agents who sign up."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Know your MLS's rules *before you list*",
+   "body": "Nothing changes until the courts rule, and MLS fines still apply where the rules are enforced. Check your MLS's options for office exclusives, coming soon and limited exposure, and walk sellers through the tradeoffs.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

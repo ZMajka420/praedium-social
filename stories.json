@@ -145,6 +145,22 @@
         "HousingWire, Nov 6 2026: https://www.housingwire.com/articles/nar-mls-listing-data-fight/"
       ],
       "angle": "Who controls listing data; article not yet fetched, verify details before use"
+    },
+    {
+      "found": "2026-11-08",
+      "title": "AGNT (eXp Realty, NextHome) Q3 2026: revenue $1.4B (+6%), net loss $4.3M vs $3.5M income a year ago, transaction sides 131,546 (+8%), volume $59.3B (+10%), 87,457 agents (+5%); attrition mostly from 'less productive cohort'; CEO says market resetting, not broken",
+      "sources": [
+        "HousingWire, Nov 6 2026: https://housingwire.com/articles/agnt-q3-2026-earnings"
+      ],
+      "angle": "Brokerage earnings: volume up, profits down; pair with Courted recruiting data"
+    },
+    {
+      "found": "2026-11-08",
+      "title": "NAR/Gibson commission settlement accounts hold $711M awaiting claim payouts; ~$17.7M interest earned in first nine months of 2026",
+      "sources": [
+        "Inman, Oct 30 2026: https://www.inman.com/2026/10/30/nar-gibson-commissions-settlement-fund-numbers-how-much-money/"
+      ],
+      "angle": "Where the settlement money is; Inman page could not be fetched this run, verify before use"
     }
   ]
 }
