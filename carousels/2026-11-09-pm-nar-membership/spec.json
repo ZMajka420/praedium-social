@@ -1,0 +1,41 @@
+{
+ "source": "NAR NXT board meeting, Nov. 2026, via HousingWire",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "NAR membership",
+   "headline": [
+    "Realtor ranks",
+    "*barely shrink*"
+   ],
+   "fig": "-1.5%",
+   "fig_caption": "Change in NAR membership from a year earlier",
+   "sub": "Far fewer agents left than NAR had budgeted for."
+  },
+  {
+   "type": "stat",
+   "kicker": "The count",
+   "big": "1.47M",
+   "label": "NAR members as of *late September*",
+   "body": "The exact count is 1,469,127, which is 22% above the 1.2 million members NAR budgeted for. Its treasurer says 2027 renewals are tracking in line with 2026."
+  },
+  {
+   "type": "points",
+   "kicker": "NXT board meeting",
+   "title": "What the board *approved*",
+   "points": [
+    "2027 budget: $280.2M revenue, $247.0M expenses",
+    "About $13.7M set for the consumer ad campaign",
+    "MLSs get more ways to claim listing copyright",
+    "More local control over feeds and data use"
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "The field is *still crowded*",
+   "body": "Nearly 1.5 million Realtors are working a slower market, and the rules around listing data are shifting. Steady follow-up with every past client and lead is what sets you apart.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
