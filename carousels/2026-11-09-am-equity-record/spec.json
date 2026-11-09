@@ -1,0 +1,62 @@
+{
+ "source": "ICE Mortgage Monitor, November 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Home equity",
+   "headline": [
+    "Owner equity hits",
+    "*a Q3 record*"
+   ],
+   "fig": "$17.5T",
+   "fig_caption": "Equity held by U.S. mortgage holders, Q3 2026",
+   "sub": "Up 1.4% from a year ago, the highest third-quarter total on record."
+  },
+  {
+   "type": "stat",
+   "kicker": "Equity millionaires",
+   "big": "2.4M",
+   "label": "mortgage holders with *$1 million or more* in equity",
+   "body": "That count is up 6% from a year ago. Nearly 9 million owners now have at least $500,000 in equity, up 4%."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where they live",
+   "title": "Top states *after California*",
+   "bars": [
+    [
+     "New York",
+     189
+    ],
+    [
+     "New Jersey",
+     141
+    ],
+    [
+     "Florida",
+     104
+    ]
+   ],
+   "unit": "K",
+   "note": "California alone accounts for *49%* of the national total."
+  },
+  {
+   "type": "points",
+   "kicker": "How owners are using it",
+   "title": "Equity is *on the move*",
+   "points": [
+    "Average tappable equity: $204,000 per borrower",
+    "Cash-out loans: about 1 in 7 recent rate locks",
+    "Purchase loans: roughly 80% of rate locks",
+    "ARMs topped 10% of early October locks"
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Past clients have *options*",
+   "body": "Owners hold record equity, even with high rates. A yearly home value check-in keeps you top of mind for the day they decide to move up, downsize or sell.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
