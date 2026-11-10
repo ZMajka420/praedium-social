@@ -1,0 +1,47 @@
+{
+ "source": "Redfin condo report, Nov. 2026 (Sept. data)",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Condo market",
+   "headline": ["Condo sellers now", "*outnumber buyers 2:1*"],
+   "sub": "The widest gap in Redfin's records going back to 2013. Chicago is a rare exception.",
+   "fig": "123%",
+   "fig_caption": "More condo sellers than buyers nationally, Sept. 2026"
+  },
+  {
+   "type": "bars",
+   "kicker": "Where the glut is",
+   "title": "Seller surplus *by metro*",
+   "bars": [["San Antonio", 458.5], ["Houston", 321.6], ["Miami", 273.6], ["Austin", 257.6], ["U.S.", 123], ["Chicago", 0.1]],
+   "unit": "%",
+   "highlight": ["Chicago"],
+   "note": "Chicago is *balanced*: 6,980 condo buyers vs. 6,987 sellers in September."
+  },
+  {
+   "type": "stat",
+   "kicker": "Buyers have leverage",
+   "big": "37%",
+   "label": "of condos sold in September had a *price cut*",
+   "body": "Up from 16% five years ago. The typical condo took 63 days to go under contract (vs. 35), and the median sale price slipped 0.8% to about $339,000."
+  },
+  {
+   "type": "points",
+   "kicker": "The national picture",
+   "title": "Why condos are *stalling*",
+   "points": [
+    "197,248 condo sellers vs. 88,460 buyers",
+    "Buyer count is the lowest in at least 13 years",
+    "Single-family seller surplus is 53.7%, less than half the condo gap",
+    "Rising insurance and HOA fees are cooling demand"
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Know your *condo math*",
+   "body": "In most big metros, condo buyers can negotiate on price and concessions. In balanced Chicago, sharp pricing still wins. Either way, put HOA dues and insurance costs in front of clients early.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
