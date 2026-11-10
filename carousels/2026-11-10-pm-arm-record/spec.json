@@ -1,0 +1,65 @@
+{
+ "source": "Optimal Blue October 2026 data; HousingWire",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Mortgage market",
+   "headline": [
+    "Buyers turn to ARMs",
+    "at a *record pace*"
+   ],
+   "fig": "17%",
+   "fig_caption": "Share of October rate locks that were adjustable-rate loans",
+   "sub": "The highest ARM share in Optimal Blue data since 2019, as buyers work around 7% rates."
+  },
+  {
+   "type": "bars",
+   "kicker": "Three-month climb",
+   "title": "ARM share of *rate locks*",
+   "bars": [
+    [
+     "August",
+     10.5
+    ],
+    [
+     "September",
+     14
+    ],
+    [
+     "October",
+     17
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "October"
+   ],
+   "note": "Each of the last two months set a new high for the data series."
+  },
+  {
+   "type": "stat",
+   "kicker": "Demand pulled back",
+   "big": "-38%",
+   "label": "total rate-lock volume, *year over year*",
+   "body": "Locks fell 19% from September. Purchase locks dropped 18% on the month and 17% on the year, even as the 30-year conforming rate eased to 7.15%."
+  },
+  {
+   "type": "points",
+   "kicker": "How buyers are adapting",
+   "title": "Getting *creative* to close",
+   "points": [
+    "First-timers: 45% of conforming purchase locks",
+    "FHA loans: 20% of all locks, up from a year ago",
+    "One lender: about 75% of her clients get seller concessions",
+    "Average locked loan amount: $384,000, down 3% on the month"
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Sell the *payment*",
+   "body": "Buyers are stacking ARMs, buydowns and seller credits to make monthly costs work. Partner with a lender who can model each option, and prep sellers early for concession asks.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
