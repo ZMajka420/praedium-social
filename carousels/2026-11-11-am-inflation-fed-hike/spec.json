@@ -1,0 +1,70 @@
+{
+ "source": "BLS CPI; CME FedWatch via Forbes; Freddie Mac via NAHB",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Rates and inflation",
+   "headline": [
+    "Inflation runs hot,",
+    "a *Fed hike* looms"
+   ],
+   "fig": "+0.4%",
+   "fig_caption": "Monthly rise in consumer prices in October 2026",
+   "sub": "That beat the 0.3% forecast, and markets now see a December rate hike as near certain."
+  },
+  {
+   "type": "bars",
+   "kicker": "October, month over month",
+   "title": "Where prices *moved*",
+   "bars": [
+    [
+     "Energy",
+     0.7
+    ],
+    [
+     "All items",
+     0.4
+    ],
+    [
+     "Core",
+     0.3
+    ],
+    [
+     "Shelter",
+     0.3
+    ],
+    [
+     "Chicago area",
+     0.3
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "Chicago area"
+   ],
+   "note": "Core prices, which exclude food and energy, rose 0.3% against a *0.2% forecast*."
+  },
+  {
+   "type": "stat",
+   "kicker": "What markets expect",
+   "big": "89.2%",
+   "label": "odds of a quarter-point hike *in December*",
+   "body": "FedWatch put another 10.8% on a half-point move after the report. The Fed held at 3.75% to 4% in October, with two officials already voting to raise."
+  },
+  {
+   "type": "stat",
+   "kicker": "The mortgage picture",
+   "big": "7.33%",
+   "label": "average 30-year rate in October, *up 108 bps* from a year ago",
+   "body": "Freddie Mac's monthly average jumped 47 basis points from September as inflation picked back up."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Don't sell the *rate drop*",
+   "body": "Clients waiting for cheaper money may wait a while. Help them plan around today's payment, using concessions, buydowns and an early lender call.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

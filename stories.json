@@ -114,23 +114,6 @@
   ],
   "backlog": [
     {
-      "found": "2026-11-05",
-      "title": "Compass record Q3 revenue $3.9B, agents rebound to 85,476; organic transactions -0.3% vs market -1.8%; CEO says market softened in recent weeks",
-      "sources": [
-        "Compass Q3 2026 release: https://www.sec.gov/Archives/edgar/data/0001563190/000156319026000175/exhibit9918-k3q26pr.htm",
-        "Inman, Nov 5 2026: https://www.inman.com/2026/11/05/compass-international-holdings-q3-earnings-2026/"
-      ],
-      "angle": "Scale winners vs. the market; the 30% production-bar raise was used in the Nov 5 PM carousel"
-    },
-    {
-      "found": "2026-11-06",
-      "title": "October jobs +165,000 vs 59,000 forecast, unemployment 4.1%; residential construction jobs -16,400 (largest drop since March 2021) while nonresidential +13,300; wage growth 3.1%",
-      "sources": [
-        "Real Estate News, Nov 6 2026: https://www.realestatenews.com/2026/11/06/housing-market-may-see-more-churn-after-strong-job-gains"
-      ],
-      "angle": "Builders pulling back on homes; Fed hike odds angle used in Nov 6 PM carousel"
-    },
-    {
       "found": "2026-11-07",
       "title": "Opendoor Q3 2026: revenue $1B (+12%), net loss $218M (vs $90M), bought 4,865 homes (+316% YoY), sold 2,728; inventory 7,596 homes worth $2.57B; 'behind schedule' on profitability goal",
       "sources": [
@@ -234,6 +217,22 @@
         "Redfin via Finviz, Nov 5 2026: https://finviz.com/news/416866/redfin-reports-homebuyers-get-some-relief-as-prices-decline-for-third-straight-week-monthly-payments-dip"
       ],
       "angle": "Weekly tracker; refresh with newest Redfin weekly before use, no Chicago figure"
+    },
+    {
+      "found": "2026-11-11",
+      "title": "Better.com posts Q3 2026 loss, cuts managers and leans on AI (figures need verification)",
+      "sources": [
+        "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/better-com-q3-2026-loss/"
+      ],
+      "angle": "Lender tech consolidation; what AI-first lending means for agent-lender partnerships"
+    },
+    {
+      "found": "2026-11-11",
+      "title": "Buyers gaining leverage: lenders report ~75% of clients getting seller concessions averaging $10,000+; HousingWire 30-yr avg 7.35% Nov 10 (down from 7.38%)",
+      "sources": [
+        "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/mortgage-rates-ease-buyers/"
+      ],
+      "angle": "Concessions as the new negotiating norm; anecdotal, pair with hard concession data"
     }
   ]
 }
