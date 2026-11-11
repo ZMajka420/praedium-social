@@ -110,6 +110,16 @@
       "folder": "carousels/2026-11-10-am-condo-glut",
       "instagram_media_id": "18109779707218708",
       "facebook_post_id": "105839225747971_1128307810166284"
+    },
+    {
+      "date": "2026-11-11",
+      "slot": "am",
+      "title": "Inflation runs hot, a Fed hike looms",
+      "source": "BLS October 2026 CPI; CME FedWatch via Forbes; Freddie Mac via NAHB",
+      "url": "https://www.bls.gov/news.release/pdf/cpi.pdf",
+      "folder": "carousels/2026-11-11-am-inflation-fed-hike",
+      "instagram_media_id": "18238608454319105",
+      "facebook_post_id": "105839225747971_1129601960036869"
     }
   ],
   "backlog": [
