@@ -1,0 +1,70 @@
+{
+ "source": "Redfin October 2026 Housing Market Report",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Home prices",
+   "headline": [
+    "Home prices post",
+    "*first drop since 2023*"
+   ],
+   "fig": "-0.4%",
+   "fig_caption": "U.S. median sale price, October 2026 vs. a year earlier",
+   "sub": "The median sold for $388,634, the first annual decline since May 2023."
+  },
+  {
+   "type": "stat",
+   "kicker": "Sellers are negotiating",
+   "big": "36%",
+   "label": "of October sales had at least one *price drop*",
+   "body": "That's the highest share in Redfin's records. 61% of homes sold below their original list price, and 14.9% of pending deals fell out of contract."
+  },
+  {
+   "type": "bars",
+   "kicker": "Pending sales, year over year",
+   "title": "Buyers *pull back*",
+   "bars": [
+    [
+     "Seattle",
+     28.7
+    ],
+    [
+     "San Diego",
+     26.6
+    ],
+    [
+     "Denver",
+     24.2
+    ],
+    [
+     "U.S.",
+     15.1
+    ],
+    [
+     "Chicago",
+     7.6
+    ]
+   ],
+   "prefix": "-",
+   "unit": "%",
+   "highlight": [
+    "Chicago"
+   ],
+   "note": "U.S. pending sales are the lowest since 2013, excluding April 2020, while active listings are at their highest since early 2020."
+  },
+  {
+   "type": "stat",
+   "kicker": "The Chicago angle",
+   "big": "+3.3%",
+   "label": "Chicago's median sale price vs. a year ago, to *$378,669*",
+   "body": "Prices still rose in more than half of the 50 most populous metros. Chicago's active listings are down 2.0% from last year."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Price it right *on day one*",
+   "body": "Supply is building and buyers are cautious with rates averaging 7.33%. Lean on fresh local comps, set expectations early, and prep sellers for negotiation. Price trends vary by metro, so know your market.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

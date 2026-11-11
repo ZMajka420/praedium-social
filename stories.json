@@ -124,22 +124,6 @@
   ],
   "backlog": [
     {
-      "found": "2026-11-07",
-      "title": "Opendoor Q3 2026: revenue $1B (+12%), net loss $218M (vs $90M), bought 4,865 homes (+316% YoY), sold 2,728; inventory 7,596 homes worth $2.57B; 'behind schedule' on profitability goal",
-      "sources": [
-        "Real Estate News, Nov 6 2026: https://www.realestatenews.com/2026/11/06/opendoor-behind-schedule-on-profitability-goal-as-losses-mount"
-      ],
-      "angle": "iBuyer inventory swelling while losses mount; what it means for sellers weighing cash offers"
-    },
-    {
-      "found": "2026-11-07",
-      "title": "NAR President Kevin Brown warns of outside forces threatening the real estate marketplace (MLS listing data fight)",
-      "sources": [
-        "HousingWire, Nov 6 2026: https://www.housingwire.com/articles/nar-mls-listing-data-fight/"
-      ],
-      "angle": "Who controls listing data; article not yet fetched, verify details before use"
-    },
-    {
       "found": "2026-11-08",
       "title": "AGNT (eXp Realty, NextHome) Q3 2026: revenue $1.4B (+6%), net loss $4.3M vs $3.5M income a year ago, transaction sides 131,546 (+8%), volume $59.3B (+10%), 87,457 agents (+5%); attrition mostly from 'less productive cohort'; CEO says market resetting, not broken",
       "sources": [
@@ -243,6 +227,22 @@
         "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/mortgage-rates-ease-buyers/"
       ],
       "angle": "Concessions as the new negotiating norm; anecdotal, pair with hard concession data"
+    },
+    {
+      "found": "2026-11-11",
+      "title": "Compass formalizes broker-to-broker cooperation policy: agents must share info on all listings (incl. Private Exclusive and Coming Soon) with outside brokers on request unless client directs otherwise in writing, respond timely, allow showings; off-MLS listings follow Bright MLS cooperation rule. Reffkin: 45 of top 50 MLSs restrict Coming Soon. Context: Compass-MRED partnership drew House antitrust subcommittee briefings in July",
+      "sources": [
+        "Real Estate News, Nov 11 2026: https://www.realestatenews.com/2026/11/11/compass-makes-broker-to-broker-cooperation-rules-official"
+      ],
+      "angle": "What changes when co-oping with Compass private listings; Chicago/MRED tie-in. Close to Nov 8 MLS-vs-Compass post, hold until ~Nov 22"
+    },
+    {
+      "found": "2026-11-11",
+      "title": "The Agency 2027 Red Paper: 84% of agents across 180 locations say too early to tell if AI wealth is lifting business; SF sales over $20M: 6 in 2026 (to early Aug) vs 1 in all of 2025; over $5M: 129 vs 113",
+      "sources": [
+        "Inman, Nov 10 2026: https://inman.com/2026/11/10/luxury-agents-brace-for-a-post-ipo-buying-wave"
+      ],
+      "angle": "Luxury and AI-IPO wealth; pair with Realtor.com luxury backlog item"
     }
   ]
 }
