@@ -1,0 +1,41 @@
+{
+ "source": "Inman, HousingWire and RISMedia reporting, Nov. 12, 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Listing rules",
+   "headline": ["Compass sues", "*15 MLSs at once*"],
+   "fig": "8",
+   "fig_caption": "States where Compass filed new federal antitrust suits",
+   "sub": "The office exclusive fight flips: now the brokerage is the one going to court."
+  },
+  {
+   "type": "bars",
+   "kicker": "Who got sued",
+   "title": "MLSs named, *by state*",
+   "bars": [["California", 6], ["N. Carolina", 3], ["Arizona", 1], ["Colorado", 1], ["Florida", 1], ["Minnesota", 1], ["New York", 1], ["Texas", 1]],
+   "prefix": "",
+   "unit": "",
+   "highlight": ["California"],
+   "note": "*Eight of the 15* were already suing Compass in two federal cases in New York."
+  },
+  {
+   "type": "points",
+   "kicker": "Both sides",
+   "title": "What's *being argued*",
+   "points": [
+    "*Compass:* rules forcing publicly marketed listings into the MLS amount to an illegal group boycott.",
+    "*The penalty:* Compass says agents face fines of up to $15,000 for marketing a home publicly at a seller's direction.",
+    "*The ask:* triple damages and court orders blocking the rules.",
+    "*The MLSs:* cooperation rules protect buyers and brokers, and agents who use shared listings should share their own."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "The rules still apply *today*",
+   "body": "A lawsuit doesn't change any MLS rule. If you work in one of these markets, follow current submission rules and document your seller's marketing choices. Chicago's MRED is not among the 15.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

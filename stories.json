@@ -135,22 +135,6 @@
   "backlog": [
     {
       "found": "2026-11-08",
-      "title": "AGNT (eXp Realty, NextHome) Q3 2026: revenue $1.4B (+6%), net loss $4.3M vs $3.5M income a year ago, transaction sides 131,546 (+8%), volume $59.3B (+10%), 87,457 agents (+5%); attrition mostly from 'less productive cohort'; CEO says market resetting, not broken",
-      "sources": [
-        "HousingWire, Nov 6 2026: https://housingwire.com/articles/agnt-q3-2026-earnings"
-      ],
-      "angle": "Brokerage earnings: volume up, profits down; pair with Courted recruiting data"
-    },
-    {
-      "found": "2026-11-08",
-      "title": "NAR/Gibson commission settlement accounts hold $711M awaiting claim payouts; ~$17.7M interest earned in first nine months of 2026",
-      "sources": [
-        "Inman, Oct 30 2026: https://www.inman.com/2026/10/30/nar-gibson-commissions-settlement-fund-numbers-how-much-money/"
-      ],
-      "angle": "Where the settlement money is; Inman page could not be fetched this run, verify before use"
-    },
-    {
-      "found": "2026-11-08",
       "title": "Weekly Altos data: inventory 902,740 (down 12,093 on the week, +7.18% YoY); pending sales 51,764 vs 59,164 a year ago; price-cut share 43% vs 42%; new listings 54,479 vs 55,486; mortgage spread 2.27%",
       "sources": [
         "HousingWire (Logan Mohtashami), Nov 7 2026: https://www.housingwire.com/articles/rates-fall-demand-stabilizes/"
@@ -253,6 +237,22 @@
         "Inman, Nov 10 2026: https://inman.com/2026/11/10/luxury-agents-brace-for-a-post-ipo-buying-wave"
       ],
       "angle": "Luxury and AI-IPO wealth; pair with Realtor.com luxury backlog item"
+    },
+    {
+      "found": "2026-11-12",
+      "title": "Payments outpace pay: Freddie Mac 30-yr 7.11% (week ending Nov 12) vs 6.24% a year ago; P&I on $416,700 median with 20% down ~$2,243 vs ~$2,050 (+$192, ~9%) while hourly earnings rose 3.1% to $38.00; Oct jobs +165,000, unemployment 4.1%; existing-home sales 3.75M pace, lowest since Aug 2010",
+      "sources": [
+        "Inman, Nov 12 2026: https://www.inman.com/2026/11/12/october-jobs-report-pay-gains-mortgage-payments/"
+      ],
+      "angle": "Wages vs payments affordability squeeze; rates angle used Nov 11-12, hold a few days"
+    },
+    {
+      "found": "2026-11-12",
+      "title": "Redfin generational analysis: older millennials who bought in 2020-21 briefly beat boomers on affordability; millennials buying at 40 spend ~35% of income on housing vs 27% at 30; boomers in early '80s often 60%+; 43% of millennials vs 31% of boomers unlikely to move due to prices",
+      "sources": [
+        "Real Estate News, Nov 12 2026: https://www.realestatenews.com/2026/11/12/millennial-buyers-had-an-edge-over-boomers-but-it-was-fleeting"
+      ],
+      "angle": "Generational buyer economics; evergreen-ish"
     }
   ]
 }
