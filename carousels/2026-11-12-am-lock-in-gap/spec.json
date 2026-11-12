@@ -1,0 +1,81 @@
+{
+ "source": "Realtor.com lock-in report, Nov. 2026, via BAM",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Housing market",
+   "headline": [
+    "Moving now costs",
+    "*$1,100 more a month*"
+   ],
+   "fig": "+85.3%",
+   "fig_caption": "Monthly payment jump if a typical owner buys a median home",
+   "sub": "New Realtor.com research shows why so many owners still won't list."
+  },
+  {
+   "type": "stat",
+   "kicker": "The payment gap",
+   "big": "44.5%",
+   "label": "of households can afford the median home at *7.32%*",
+   "body": "That home runs $2,468 a month in principal and interest, vs. $1,332 for the typical current owner at a median rate near 4%."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where it bites hardest",
+   "title": "Payment jump to buy a *median home*",
+   "bars": [
+    [
+     "Portland, ME",
+     167.0
+    ],
+    [
+     "San Jose",
+     164.8
+    ],
+    [
+     "Los Angeles",
+     161.9
+    ],
+    [
+     "U.S. overall",
+     85.3
+    ],
+    [
+     "Buffalo",
+     46.1
+    ],
+    [
+     "Baltimore",
+     45.0
+    ],
+    [
+     "Pittsburgh",
+     43.3
+    ]
+   ],
+   "prefix": "",
+   "unit": "%",
+   "highlight": [
+    "U.S. overall"
+   ],
+   "note": "In about *a third of the 100 largest metros*, buying would more than double the typical owner's payment."
+  },
+  {
+   "type": "points",
+   "kicker": "What lower rates would do",
+   "title": "Rates alone *won't close it*",
+   "points": [
+    "At 6%, a median-priced home runs $2,154 a month, still 61.7% above what owners pay today.",
+    "At 5%, the payment falls to $1,929, and 54.8% of households could afford it, up from 44.5% now.",
+    "Realtor.com's December 2025 read put the jump at 73.2%. This update puts it at 85.3%."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Sell the *move*, not the rate",
+   "body": "Waiting for 6% won't erase the gap for most owners. The listings that do come will go to agents who can walk sellers through the full math: equity, the next payment and why they want to move.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
