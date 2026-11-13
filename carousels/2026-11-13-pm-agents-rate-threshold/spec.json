@@ -1,0 +1,54 @@
+{
+ "source": "Real REMAX survey; Goldman Sachs via Real Estate News",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Agent sentiment",
+   "headline": [
+    "Agents name the",
+    "*rate that matters*"
+   ],
+   "fig": "65%",
+   "fig_caption": "of agents say rates must drop below 6% to revive demand",
+   "sub": "A new survey of 177 agents shows optimism sliding as buyers wait."
+  },
+  {
+   "type": "stat",
+   "kicker": "Optimism index",
+   "big": "45.8",
+   "label": "Agent Optimism Index, down from *54.3* a month earlier",
+   "body": "On a 0 to 100 scale, the latest reading slipped below the midpoint. Two in three agents say their buyers are pausing or delaying their search."
+  },
+  {
+   "type": "bars",
+   "kicker": "What agents see from sellers",
+   "title": "Sellers are *starting to bend*",
+   "bars": [
+    [
+     "Delaying plans to list",
+     39
+    ],
+    [
+     "Open to price cuts",
+     35
+    ],
+    [
+     "Offering concessions",
+     34
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Delaying plans to list"
+   ],
+   "note": "Share of agents reporting each. Another 37% say rates must fall *below 5.5%* to move buyers, and if rates hold near 7%, nearly 60% expect prices to fall next year."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Plan for a *rate-driven* 2027",
+   "body": "Goldman Sachs sees 3.9 million existing-home sales in 2027. Until rates move, deals will come from sellers willing to adjust, so prep listings for price talks and concessions, and keep a watch list of buyers waiting on a rate drop.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

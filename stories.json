@@ -144,14 +144,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-08",
-   "title": "Progress Residential to pay $49.8M to settle FTC and state claims over rental practices",
-   "sources": [
-    "HousingWire, Nov 6 2026: https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/"
-   ],
-   "angle": "Single-family rental fees and disclosures; not yet fetched, verify details before use"
-  },
-  {
    "found": "2026-11-09",
    "title": "Serhant aligns with American Real Estate Association (ARA) to raise agent standards; Ryan Serhant warns brokers to stop protecting the old business model",
    "sources": [
@@ -201,10 +193,10 @@
    "angle": "Brokerage vs. NAR governance; light on numbers, pair with ARA/Serhant backlog item"
   },
   {
-   "found": "2026-11-10",
-   "title": "Redfin four weeks ending Nov 1: pending sales 275,484 (-16.4% YoY, lowest in Redfin records), median sale price $388,604 (-0.4%, third straight weekly drop), new listings lowest since January, months of supply 4.6; pending sales down in every metro analyzed",
+   "found": "2026-11-13",
+   "title": "Redfin four weeks ending Nov 8: pending sales 275,980 (-15.54% YoY, lowest in Redfin records), median sale price $388,613 (-0.9%, fourth straight weekly drop), median payment $2,755 (six-week low, +9% YoY), rate 7.18%, months of supply 4.7, 21% of listings with price drops; pending sales down in every metro analyzed (Seattle -31.1%)",
    "sources": [
-    "Redfin via Finviz, Nov 5 2026: https://finviz.com/news/416866/redfin-reports-homebuyers-get-some-relief-as-prices-decline-for-third-straight-week-monthly-payments-dip"
+    "Redfin via PR Newswire, Nov 12 2026: https://www.prnewswire.com/news-releases/redfin-reports-monthly-mortgage-payments-fall-to-lowest-level-in-6-weeks-as-home-prices-keep-dipping-302937710.html"
    ],
    "angle": "Weekly tracker; refresh with newest Redfin weekly before use, no Chicago figure"
   },
@@ -263,6 +255,14 @@
     "HousingWire, Nov 12 2026: https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/"
    ],
    "angle": "What AI-agent rules could mean for licensees; no political opinion"
+  },
+  {
+   "found": "2026-11-13",
+   "title": "Cook County tax sale resumes in Dec 2026 with 9,481 eligible properties, fewest since 1994 and first time under 10,000 in 30+ years (vs 14,000+ expected in March); 2,700+ owe under $1,000",
+   "sources": [
+    "The Real Deal Chicago, Nov 6 2026: https://therealdeal.com/chicago/2026/11/06/cook-county-tax-auction-to-resume/"
+   ],
+   "angle": "Chicago angle; fewer distressed tax-delinquent homes, pair with foreclosure data after Nov 18"
   }
  ]
 }
