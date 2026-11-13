@@ -1,268 +1,268 @@
 {
-  "_about": "Story log for the Praedium news carousel automation. 'posted' = already used (never repeat). 'backlog' = good evergreen-ish stories saved for slow news days.",
-  "posted": [
-    {
-      "date": "2026-11-04",
-      "slot": "test",
-      "title": "Foreclosure auctions hit a 6-year high",
-      "source": "Auction.com Q3 2026 report via HousingWire",
-      "url": "https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/",
-      "folder": "carousels/2026-11-04-foreclosures",
-      "instagram_media_id": "18128240087488257",
-      "facebook_post_id": "105839225747971_1122181684112230"
-    },
-    {
-      "date": "2026-11-05",
-      "slot": "am",
-      "title": "Zillow's lead model goes all Preferred",
-      "source": "Zillow Q3 2026 earnings via Inman",
-      "url": "https://www.inman.com/2026/11/04/zillow-ceo-preferred-will-handle-all-buyer-connections-by-early-2027/",
-      "folder": "carousels/2026-11-05-am-zillow-preferred",
-      "instagram_media_id": "17967241694983407",
-      "facebook_post_id": "105839225747971_1122919494038449"
-    },
-    {
-      "date": "2026-11-05",
-      "slot": "pm",
-      "title": "Real REMAX plans for a tougher 2027",
-      "source": "Real REMAX and Compass Q3 2026 earnings via Inman; Freddie Mac",
-      "url": "https://www.inman.com/2026/11/05/real-remax-q3-earnings-2026/",
-      "folder": "carousels/2026-11-05-pm-real-remax-2027",
-      "instagram_media_id": "17914550121514863",
-      "facebook_post_id": "105839225747971_1123268464003552"
-    },
-    {
-      "date": "2026-11-06",
-      "slot": "am",
-      "title": "Agent use hits a four-decade high",
-      "source": "NAR 2026 Profile of Home Buyers and Sellers",
-      "url": "https://www.nar.realtor/newsroom/first-time-home-buyer-share-inches-up-to-22-median-age-remains-at-record-high-of-40",
-      "folder": "carousels/2026-11-06-am-nar-agent-use",
-      "instagram_media_id": "17954768196278322",
-      "facebook_post_id": "105839225747971_1124013727262359"
-    },
-    {
-      "date": "2026-11-07",
-      "slot": "am",
-      "title": "Illinois leads the nation in price gains",
-      "source": "Cotality US Home Price Insights, Nov. 2026 (Sept. data)",
-      "url": "https://www.cotality.com/insights/articles/us-home-price-insights-november-2026",
-      "folder": "carousels/2026-11-07-am-illinois-price-leader",
-      "instagram_media_id": "18131061350304873",
-      "facebook_post_id": "105839225747971_1125101820486883"
-    },
-    {
-      "date": "2026-11-07",
-      "slot": "pm",
-      "title": "Buyers hit pause as rates top 7%",
-      "source": "Zillow October 2026 Market Report",
-      "url": "https://finviz.com/news/416869/newly-pending-listings-fell-17-in-october-the-biggest-year-over-year-drop-since-2023",
-      "folder": "carousels/2026-11-07-pm-pending-sales-slump",
-      "instagram_media_id": "18134403772690557",
-      "facebook_post_id": "105839225747971_1125605777103154"
-    },
-    {
-      "date": "2026-11-08",
-      "slot": "am",
-      "title": "MLSs take Compass to federal court",
-      "source": "HousingWire, The Real Deal and RISMedia reporting",
-      "url": "https://www.housingwire.com/articles/mlslistings-lawsuit-compass/",
-      "folder": "carousels/2026-11-08-am-mls-vs-compass",
-      "instagram_media_id": "18120133579976861",
-      "facebook_post_id": "105839225747971_1126250220372043"
-    },
-    {
-      "date": "2026-11-08",
-      "slot": "pm",
-      "title": "Supply jumps, but not in Chicago",
-      "source": "Realtor.com October 2026 Monthly Housing Report",
-      "url": "https://finviz.com/news/415117/active-inventory-grows-as-sellers-keep-homes-on-the-market-realtorcom-october-housing-report",
-      "folder": "carousels/2026-11-08-pm-chicago-inventory",
-      "instagram_media_id": "18107452670201407",
-      "facebook_post_id": "105839225747971_1126632740333791"
-    },
-    {
-      "date": "2026-11-09",
-      "slot": "am",
-      "title": "Owner equity hits a Q3 record",
-      "source": "ICE Mortgage Monitor, November 2026",
-      "url": "https://www.stocktitan.net/news/ICE/ice-mortgage-monitor-2-4-million-mortgage-holders-are-equity-rqxhu1n5pst4.html",
-      "folder": "carousels/2026-11-09-am-equity-record",
-      "instagram_media_id": "18170996695467415",
-      "facebook_post_id": "105839225747971_1127324403597958"
-    },
-    {
-      "date": "2026-11-09",
-      "slot": "pm",
-      "title": "Realtor ranks barely shrink",
-      "source": "NAR NXT board meeting, Nov. 2026, via HousingWire",
-      "url": "https://www.housingwire.com/articles/nar-membership-revenue-budget-2026/",
-      "folder": "carousels/2026-11-09-pm-nar-membership",
-      "instagram_media_id": "18470767384184065",
-      "facebook_post_id": "105839225747971_1127693756894356"
-    },
-    {
-      "date": "2026-11-10",
-      "slot": "am",
-      "title": "Condo sellers now outnumber buyers 2:1",
-      "source": "Redfin condo report, Nov. 2026 (Sept. data)",
-      "url": "https://www.redfin.com/news/condo-fall-2026/",
-      "folder": "carousels/2026-11-10-am-condo-glut",
-      "instagram_media_id": "18109779707218708",
-      "facebook_post_id": "105839225747971_1128307810166284"
-    },
-    {
-      "date": "2026-11-11",
-      "slot": "am",
-      "title": "Inflation runs hot, a Fed hike looms",
-      "source": "BLS October 2026 CPI; CME FedWatch via Forbes; Freddie Mac via NAHB",
-      "url": "https://www.bls.gov/news.release/pdf/cpi.pdf",
-      "folder": "carousels/2026-11-11-am-inflation-fed-hike",
-      "instagram_media_id": "18238608454319105",
-      "facebook_post_id": "105839225747971_1129601960036869"
-    },
-    {
-      "date": "2026-11-12",
-      "slot": "am",
-      "title": "Moving now costs $1,100 more a month",
-      "source": "Realtor.com lock-in report, Nov. 2026, via BAM",
-      "url": "https://nowbam.com/the-1100-monthly-gap-keeping-homeowners-from-moving/",
-      "folder": "carousels/2026-11-12-am-lock-in-gap",
-      "instagram_media_id": "18572284420076536",
-      "facebook_post_id": "105839225747971_1130264689970596"
-    },
-    {
-      "date": "2026-11-12",
-      "slot": "pm",
-      "title": "Compass sues 15 MLSs at once",
-      "source": "Inman, HousingWire and RISMedia reporting, Nov. 12, 2026",
-      "url": "https://www.inman.com/2026/11/12/compass-lawsuits-mlss-antitrust-litigation/",
-      "folder": "carousels/2026-11-12-pm-compass-sues-mlss",
-      "instagram_media_id": "18116853422168383",
-      "facebook_post_id": "105839225747971_1130741806589551"
-    }
-  ],
-  "backlog": [
-    {
-      "found": "2026-11-08",
-      "title": "Weekly Altos data: inventory 902,740 (down 12,093 on the week, +7.18% YoY); pending sales 51,764 vs 59,164 a year ago; price-cut share 43% vs 42%; new listings 54,479 vs 55,486; mortgage spread 2.27%",
-      "sources": [
-        "HousingWire (Logan Mohtashami), Nov 7 2026: https://www.housingwire.com/articles/rates-fall-demand-stabilizes/"
-      ],
-      "angle": "Weekly tracker; refresh before use. Rates angle heavily used Nov 6-7, lead with price cuts or seasonal inventory turn"
-    },
-    {
-      "found": "2026-11-08",
-      "title": "Progress Residential to pay $49.8M to settle FTC and state claims over rental practices",
-      "sources": [
-        "HousingWire, Nov 6 2026: https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/"
-      ],
-      "angle": "Single-family rental fees and disclosures; not yet fetched, verify details before use"
-    },
-    {
-      "found": "2026-11-09",
-      "title": "Serhant aligns with American Real Estate Association (ARA) to raise agent standards; Ryan Serhant warns brokers to stop protecting the old business model",
-      "sources": [
-        "HousingWire, Nov 9 2026: https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
-        "HousingWire, Nov 9 2026: https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/"
-      ],
-      "angle": "Alternative to NAR? Agent standards debate; not yet fetched, verify details before use"
-    },
-    {
-      "found": "2026-11-09",
-      "title": "October data recap: NAHB builder index 29 (14-year low), 43% of builders cutting prices (six-year high); pending sales -11.3% YoY; median existing-home price $417,500 (+1.3%)",
-      "sources": [
-        "RISMedia Econ Review, Nov 5 2026: https://www.rismedia.com/?p=480266"
-      ],
-      "angle": "Builders discounting to compete with resale listings; refresh figures before use"
-    },
-    {
-      "found": "2026-11-10",
-      "title": "NAR approves four MLS policies at NXT: data feeds (IDX/VOW/BBO/syndication) separated from MLS participation with local eligibility rules and optional cost recovery; uses not permitted by license are prohibited; MLSs may optionally require assignment of up to 50% copyright interest (opt-out allowed); new MLS committee experience rules from 2027",
-      "sources": [
-        "Real Estate News, Nov 9 2026: https://www.realestatenews.com/2026/11/09/nar-approves-new-mls-policies-to-boost-local-control"
-      ],
-      "angle": "What changes for agents' data feeds and listing photos; strong 'what changes' story, no Illinois data"
-    },
-    {
-      "found": "2026-11-10",
-      "title": "Realtor.com Oct 2026 luxury report: top-10% threshold $1,197,014 (-2.3% YoY), top 5% -4.1%, top 1% -6.2% to ~$5.1M; 31 straight months of declines; 12 of 43 metros up 1%+, five in Florida; Naples +9%, San Jose -12.1%, NY -11.3%",
-      "sources": [
-        "Fortune, Nov 10 2026: https://fortune.com/2026/11/10/luxury-home-prices-are-falling-nationwide-except-in-florida-where-billionaires-like-jeff-bezos-and-ken-griffin-have-spent-hundreds-of-millions/"
-      ],
-      "angle": "Luxury softening; no Chicago figure in article, check Realtor.com original"
-    },
-    {
-      "found": "2026-11-10",
-      "title": "Zillow 2027 Home Trends: AI mentions in listings +119% YoY, home offices +42%, multigenerational +58%, spa-inspired baths +60%, 'sustainable/green' -26%, whole-home batteries +43%",
-      "sources": [
-        "Zillow press release, Nov 10 2026: https://prnewswire.com/news-releases/zillows-2027-home-trends-report-digital-detox-colormaxxing-and-catios-302934350.html"
-      ],
-      "angle": "Listing-copy trends; light, evergreen-ish for a slow day"
-    },
-    {
-      "found": "2026-11-10",
-      "title": "Compass bars salaried employees and brokerage managers from state and local Realtor association leadership roles, extending an Anywhere policy; unclear if current leaders must step down or if non-Realtor MLSs are covered; Compass joined ARA in July",
-      "sources": [
-        "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/compass-realtor-leadership-ban/"
-      ],
-      "angle": "Brokerage vs. NAR governance; light on numbers, pair with ARA/Serhant backlog item"
-    },
-    {
-      "found": "2026-11-10",
-      "title": "Redfin four weeks ending Nov 1: pending sales 275,484 (-16.4% YoY, lowest in Redfin records), median sale price $388,604 (-0.4%, third straight weekly drop), new listings lowest since January, months of supply 4.6; pending sales down in every metro analyzed",
-      "sources": [
-        "Redfin via Finviz, Nov 5 2026: https://finviz.com/news/416866/redfin-reports-homebuyers-get-some-relief-as-prices-decline-for-third-straight-week-monthly-payments-dip"
-      ],
-      "angle": "Weekly tracker; refresh with newest Redfin weekly before use, no Chicago figure"
-    },
-    {
-      "found": "2026-11-11",
-      "title": "Better.com posts Q3 2026 loss, cuts managers and leans on AI (figures need verification)",
-      "sources": [
-        "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/better-com-q3-2026-loss/"
-      ],
-      "angle": "Lender tech consolidation; what AI-first lending means for agent-lender partnerships"
-    },
-    {
-      "found": "2026-11-11",
-      "title": "Buyers gaining leverage: lenders report ~75% of clients getting seller concessions averaging $10,000+; HousingWire 30-yr avg 7.35% Nov 10 (down from 7.38%)",
-      "sources": [
-        "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/mortgage-rates-ease-buyers/"
-      ],
-      "angle": "Concessions as the new negotiating norm; anecdotal, pair with hard concession data"
-    },
-    {
-      "found": "2026-11-11",
-      "title": "Compass formalizes broker-to-broker cooperation policy: agents must share info on all listings (incl. Private Exclusive and Coming Soon) with outside brokers on request unless client directs otherwise in writing, respond timely, allow showings; off-MLS listings follow Bright MLS cooperation rule. Reffkin: 45 of top 50 MLSs restrict Coming Soon. Context: Compass-MRED partnership drew House antitrust subcommittee briefings in July",
-      "sources": [
-        "Real Estate News, Nov 11 2026: https://www.realestatenews.com/2026/11/11/compass-makes-broker-to-broker-cooperation-rules-official"
-      ],
-      "angle": "What changes when co-oping with Compass private listings; Chicago/MRED tie-in. Close to Nov 8 MLS-vs-Compass post, hold until ~Nov 22"
-    },
-    {
-      "found": "2026-11-11",
-      "title": "The Agency 2027 Red Paper: 84% of agents across 180 locations say too early to tell if AI wealth is lifting business; SF sales over $20M: 6 in 2026 (to early Aug) vs 1 in all of 2025; over $5M: 129 vs 113",
-      "sources": [
-        "Inman, Nov 10 2026: https://inman.com/2026/11/10/luxury-agents-brace-for-a-post-ipo-buying-wave"
-      ],
-      "angle": "Luxury and AI-IPO wealth; pair with Realtor.com luxury backlog item"
-    },
-    {
-      "found": "2026-11-12",
-      "title": "Payments outpace pay: Freddie Mac 30-yr 7.11% (week ending Nov 12) vs 6.24% a year ago; P&I on $416,700 median with 20% down ~$2,243 vs ~$2,050 (+$192, ~9%) while hourly earnings rose 3.1% to $38.00; Oct jobs +165,000, unemployment 4.1%; existing-home sales 3.75M pace, lowest since Aug 2010",
-      "sources": [
-        "Inman, Nov 12 2026: https://www.inman.com/2026/11/12/october-jobs-report-pay-gains-mortgage-payments/"
-      ],
-      "angle": "Wages vs payments affordability squeeze; rates angle used Nov 11-12, hold a few days"
-    },
-    {
-      "found": "2026-11-12",
-      "title": "Redfin generational analysis: older millennials who bought in 2020-21 briefly beat boomers on affordability; millennials buying at 40 spend ~35% of income on housing vs 27% at 30; boomers in early '80s often 60%+; 43% of millennials vs 31% of boomers unlikely to move due to prices",
-      "sources": [
-        "Real Estate News, Nov 12 2026: https://www.realestatenews.com/2026/11/12/millennial-buyers-had-an-edge-over-boomers-but-it-was-fleeting"
-      ],
-      "angle": "Generational buyer economics; evergreen-ish"
-    }
-  ]
+ "_about": "Story log for the Praedium news carousel automation. 'posted' = already used (never repeat). 'backlog' = good evergreen-ish stories saved for slow news days.",
+ "posted": [
+  {
+   "date": "2026-11-04",
+   "slot": "test",
+   "title": "Foreclosure auctions hit a 6-year high",
+   "source": "Auction.com Q3 2026 report via HousingWire",
+   "url": "https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/",
+   "folder": "carousels/2026-11-04-foreclosures",
+   "instagram_media_id": "18128240087488257",
+   "facebook_post_id": "105839225747971_1122181684112230"
+  },
+  {
+   "date": "2026-11-05",
+   "slot": "am",
+   "title": "Zillow's lead model goes all Preferred",
+   "source": "Zillow Q3 2026 earnings via Inman",
+   "url": "https://www.inman.com/2026/11/04/zillow-ceo-preferred-will-handle-all-buyer-connections-by-early-2027/",
+   "folder": "carousels/2026-11-05-am-zillow-preferred",
+   "instagram_media_id": "17967241694983407",
+   "facebook_post_id": "105839225747971_1122919494038449"
+  },
+  {
+   "date": "2026-11-05",
+   "slot": "pm",
+   "title": "Real REMAX plans for a tougher 2027",
+   "source": "Real REMAX and Compass Q3 2026 earnings via Inman; Freddie Mac",
+   "url": "https://www.inman.com/2026/11/05/real-remax-q3-earnings-2026/",
+   "folder": "carousels/2026-11-05-pm-real-remax-2027",
+   "instagram_media_id": "17914550121514863",
+   "facebook_post_id": "105839225747971_1123268464003552"
+  },
+  {
+   "date": "2026-11-06",
+   "slot": "am",
+   "title": "Agent use hits a four-decade high",
+   "source": "NAR 2026 Profile of Home Buyers and Sellers",
+   "url": "https://www.nar.realtor/newsroom/first-time-home-buyer-share-inches-up-to-22-median-age-remains-at-record-high-of-40",
+   "folder": "carousels/2026-11-06-am-nar-agent-use",
+   "instagram_media_id": "17954768196278322",
+   "facebook_post_id": "105839225747971_1124013727262359"
+  },
+  {
+   "date": "2026-11-07",
+   "slot": "am",
+   "title": "Illinois leads the nation in price gains",
+   "source": "Cotality US Home Price Insights, Nov. 2026 (Sept. data)",
+   "url": "https://www.cotality.com/insights/articles/us-home-price-insights-november-2026",
+   "folder": "carousels/2026-11-07-am-illinois-price-leader",
+   "instagram_media_id": "18131061350304873",
+   "facebook_post_id": "105839225747971_1125101820486883"
+  },
+  {
+   "date": "2026-11-07",
+   "slot": "pm",
+   "title": "Buyers hit pause as rates top 7%",
+   "source": "Zillow October 2026 Market Report",
+   "url": "https://finviz.com/news/416869/newly-pending-listings-fell-17-in-october-the-biggest-year-over-year-drop-since-2023",
+   "folder": "carousels/2026-11-07-pm-pending-sales-slump",
+   "instagram_media_id": "18134403772690557",
+   "facebook_post_id": "105839225747971_1125605777103154"
+  },
+  {
+   "date": "2026-11-08",
+   "slot": "am",
+   "title": "MLSs take Compass to federal court",
+   "source": "HousingWire, The Real Deal and RISMedia reporting",
+   "url": "https://www.housingwire.com/articles/mlslistings-lawsuit-compass/",
+   "folder": "carousels/2026-11-08-am-mls-vs-compass",
+   "instagram_media_id": "18120133579976861",
+   "facebook_post_id": "105839225747971_1126250220372043"
+  },
+  {
+   "date": "2026-11-08",
+   "slot": "pm",
+   "title": "Supply jumps, but not in Chicago",
+   "source": "Realtor.com October 2026 Monthly Housing Report",
+   "url": "https://finviz.com/news/415117/active-inventory-grows-as-sellers-keep-homes-on-the-market-realtorcom-october-housing-report",
+   "folder": "carousels/2026-11-08-pm-chicago-inventory",
+   "instagram_media_id": "18107452670201407",
+   "facebook_post_id": "105839225747971_1126632740333791"
+  },
+  {
+   "date": "2026-11-09",
+   "slot": "am",
+   "title": "Owner equity hits a Q3 record",
+   "source": "ICE Mortgage Monitor, November 2026",
+   "url": "https://www.stocktitan.net/news/ICE/ice-mortgage-monitor-2-4-million-mortgage-holders-are-equity-rqxhu1n5pst4.html",
+   "folder": "carousels/2026-11-09-am-equity-record",
+   "instagram_media_id": "18170996695467415",
+   "facebook_post_id": "105839225747971_1127324403597958"
+  },
+  {
+   "date": "2026-11-09",
+   "slot": "pm",
+   "title": "Realtor ranks barely shrink",
+   "source": "NAR NXT board meeting, Nov. 2026, via HousingWire",
+   "url": "https://www.housingwire.com/articles/nar-membership-revenue-budget-2026/",
+   "folder": "carousels/2026-11-09-pm-nar-membership",
+   "instagram_media_id": "18470767384184065",
+   "facebook_post_id": "105839225747971_1127693756894356"
+  },
+  {
+   "date": "2026-11-10",
+   "slot": "am",
+   "title": "Condo sellers now outnumber buyers 2:1",
+   "source": "Redfin condo report, Nov. 2026 (Sept. data)",
+   "url": "https://www.redfin.com/news/condo-fall-2026/",
+   "folder": "carousels/2026-11-10-am-condo-glut",
+   "instagram_media_id": "18109779707218708",
+   "facebook_post_id": "105839225747971_1128307810166284"
+  },
+  {
+   "date": "2026-11-11",
+   "slot": "am",
+   "title": "Inflation runs hot, a Fed hike looms",
+   "source": "BLS October 2026 CPI; CME FedWatch via Forbes; Freddie Mac via NAHB",
+   "url": "https://www.bls.gov/news.release/pdf/cpi.pdf",
+   "folder": "carousels/2026-11-11-am-inflation-fed-hike",
+   "instagram_media_id": "18238608454319105",
+   "facebook_post_id": "105839225747971_1129601960036869"
+  },
+  {
+   "date": "2026-11-12",
+   "slot": "am",
+   "title": "Moving now costs $1,100 more a month",
+   "source": "Realtor.com lock-in report, Nov. 2026, via BAM",
+   "url": "https://nowbam.com/the-1100-monthly-gap-keeping-homeowners-from-moving/",
+   "folder": "carousels/2026-11-12-am-lock-in-gap",
+   "instagram_media_id": "18572284420076536",
+   "facebook_post_id": "105839225747971_1130264689970596"
+  },
+  {
+   "date": "2026-11-12",
+   "slot": "pm",
+   "title": "Compass sues 15 MLSs at once",
+   "source": "Inman, HousingWire and RISMedia reporting, Nov. 12, 2026",
+   "url": "https://www.inman.com/2026/11/12/compass-lawsuits-mlss-antitrust-litigation/",
+   "folder": "carousels/2026-11-12-pm-compass-sues-mlss",
+   "instagram_media_id": "18116853422168383",
+   "facebook_post_id": "105839225747971_1130741806589551"
+  }
+ ],
+ "backlog": [
+  {
+   "found": "2026-11-08",
+   "title": "Progress Residential to pay $49.8M to settle FTC and state claims over rental practices",
+   "sources": [
+    "HousingWire, Nov 6 2026: https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/"
+   ],
+   "angle": "Single-family rental fees and disclosures; not yet fetched, verify details before use"
+  },
+  {
+   "found": "2026-11-09",
+   "title": "Serhant aligns with American Real Estate Association (ARA) to raise agent standards; Ryan Serhant warns brokers to stop protecting the old business model",
+   "sources": [
+    "HousingWire, Nov 9 2026: https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
+    "HousingWire, Nov 9 2026: https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/"
+   ],
+   "angle": "Alternative to NAR? Agent standards debate; not yet fetched, verify details before use"
+  },
+  {
+   "found": "2026-11-09",
+   "title": "October data recap: NAHB builder index 29 (14-year low), 43% of builders cutting prices (six-year high); pending sales -11.3% YoY; median existing-home price $417,500 (+1.3%)",
+   "sources": [
+    "RISMedia Econ Review, Nov 5 2026: https://www.rismedia.com/?p=480266"
+   ],
+   "angle": "Builders discounting to compete with resale listings; refresh figures before use"
+  },
+  {
+   "found": "2026-11-10",
+   "title": "NAR approves four MLS policies at NXT: data feeds (IDX/VOW/BBO/syndication) separated from MLS participation with local eligibility rules and optional cost recovery; uses not permitted by license are prohibited; MLSs may optionally require assignment of up to 50% copyright interest (opt-out allowed); new MLS committee experience rules from 2027",
+   "sources": [
+    "Real Estate News, Nov 9 2026: https://www.realestatenews.com/2026/11/09/nar-approves-new-mls-policies-to-boost-local-control"
+   ],
+   "angle": "What changes for agents' data feeds and listing photos; strong 'what changes' story, no Illinois data"
+  },
+  {
+   "found": "2026-11-10",
+   "title": "Realtor.com Oct 2026 luxury report: top-10% threshold $1,197,014 (-2.3% YoY), top 5% -4.1%, top 1% -6.2% to ~$5.1M; 31 straight months of declines; 12 of 43 metros up 1%+, five in Florida; Naples +9%, San Jose -12.1%, NY -11.3%",
+   "sources": [
+    "Fortune, Nov 10 2026: https://fortune.com/2026/11/10/luxury-home-prices-are-falling-nationwide-except-in-florida-where-billionaires-like-jeff-bezos-and-ken-griffin-have-spent-hundreds-of-millions/"
+   ],
+   "angle": "Luxury softening; no Chicago figure in article, check Realtor.com original"
+  },
+  {
+   "found": "2026-11-10",
+   "title": "Zillow 2027 Home Trends: AI mentions in listings +119% YoY, home offices +42%, multigenerational +58%, spa-inspired baths +60%, 'sustainable/green' -26%, whole-home batteries +43%",
+   "sources": [
+    "Zillow press release, Nov 10 2026: https://prnewswire.com/news-releases/zillows-2027-home-trends-report-digital-detox-colormaxxing-and-catios-302934350.html"
+   ],
+   "angle": "Listing-copy trends; light, evergreen-ish for a slow day"
+  },
+  {
+   "found": "2026-11-10",
+   "title": "Compass bars salaried employees and brokerage managers from state and local Realtor association leadership roles, extending an Anywhere policy; unclear if current leaders must step down or if non-Realtor MLSs are covered; Compass joined ARA in July",
+   "sources": [
+    "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/compass-realtor-leadership-ban/"
+   ],
+   "angle": "Brokerage vs. NAR governance; light on numbers, pair with ARA/Serhant backlog item"
+  },
+  {
+   "found": "2026-11-10",
+   "title": "Redfin four weeks ending Nov 1: pending sales 275,484 (-16.4% YoY, lowest in Redfin records), median sale price $388,604 (-0.4%, third straight weekly drop), new listings lowest since January, months of supply 4.6; pending sales down in every metro analyzed",
+   "sources": [
+    "Redfin via Finviz, Nov 5 2026: https://finviz.com/news/416866/redfin-reports-homebuyers-get-some-relief-as-prices-decline-for-third-straight-week-monthly-payments-dip"
+   ],
+   "angle": "Weekly tracker; refresh with newest Redfin weekly before use, no Chicago figure"
+  },
+  {
+   "found": "2026-11-11",
+   "title": "Better.com posts Q3 2026 loss, cuts managers and leans on AI (figures need verification)",
+   "sources": [
+    "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/better-com-q3-2026-loss/"
+   ],
+   "angle": "Lender tech consolidation; what AI-first lending means for agent-lender partnerships"
+  },
+  {
+   "found": "2026-11-11",
+   "title": "Buyers gaining leverage: lenders report ~75% of clients getting seller concessions averaging $10,000+; HousingWire 30-yr avg 7.35% Nov 10 (down from 7.38%)",
+   "sources": [
+    "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/mortgage-rates-ease-buyers/"
+   ],
+   "angle": "Concessions as the new negotiating norm; anecdotal, pair with hard concession data"
+  },
+  {
+   "found": "2026-11-11",
+   "title": "Compass formalizes broker-to-broker cooperation policy: agents must share info on all listings (incl. Private Exclusive and Coming Soon) with outside brokers on request unless client directs otherwise in writing, respond timely, allow showings; off-MLS listings follow Bright MLS cooperation rule. Reffkin: 45 of top 50 MLSs restrict Coming Soon. Context: Compass-MRED partnership drew House antitrust subcommittee briefings in July",
+   "sources": [
+    "Real Estate News, Nov 11 2026: https://www.realestatenews.com/2026/11/11/compass-makes-broker-to-broker-cooperation-rules-official"
+   ],
+   "angle": "What changes when co-oping with Compass private listings; Chicago/MRED tie-in. Close to Nov 8 MLS-vs-Compass post, hold until ~Nov 22"
+  },
+  {
+   "found": "2026-11-11",
+   "title": "The Agency 2027 Red Paper: 84% of agents across 180 locations say too early to tell if AI wealth is lifting business; SF sales over $20M: 6 in 2026 (to early Aug) vs 1 in all of 2025; over $5M: 129 vs 113",
+   "sources": [
+    "Inman, Nov 10 2026: https://inman.com/2026/11/10/luxury-agents-brace-for-a-post-ipo-buying-wave"
+   ],
+   "angle": "Luxury and AI-IPO wealth; pair with Realtor.com luxury backlog item"
+  },
+  {
+   "found": "2026-11-12",
+   "title": "Payments outpace pay: Freddie Mac 30-yr 7.11% (week ending Nov 12) vs 6.24% a year ago; P&I on $416,700 median with 20% down ~$2,243 vs ~$2,050 (+$192, ~9%) while hourly earnings rose 3.1% to $38.00; Oct jobs +165,000, unemployment 4.1%; existing-home sales 3.75M pace, lowest since Aug 2010",
+   "sources": [
+    "Inman, Nov 12 2026: https://www.inman.com/2026/11/12/october-jobs-report-pay-gains-mortgage-payments/"
+   ],
+   "angle": "Wages vs payments affordability squeeze; rates angle used Nov 11-12, hold a few days"
+  },
+  {
+   "found": "2026-11-12",
+   "title": "Redfin generational analysis: older millennials who bought in 2020-21 briefly beat boomers on affordability; millennials buying at 40 spend ~35% of income on housing vs 27% at 30; boomers in early '80s often 60%+; 43% of millennials vs 31% of boomers unlikely to move due to prices",
+   "sources": [
+    "Real Estate News, Nov 12 2026: https://www.realestatenews.com/2026/11/12/millennial-buyers-had-an-edge-over-boomers-but-it-was-fleeting"
+   ],
+   "angle": "Generational buyer economics; evergreen-ish"
+  },
+  {
+   "found": "2026-11-13",
+   "title": "ARA forms AI Task Force to push 'licensee-in-the-loop' laws in all 50 states: AI acting for consumers must be supervised by a named licensee (name + license number), licensee reviews every offer/counter, fiduciary duty extends to AI work; bills possible late 2026/Jan 2027; chaired by Dmitriy Kruglyak",
+   "sources": [
+    "HousingWire, Nov 12 2026: https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/"
+   ],
+   "angle": "What AI-agent rules could mean for licensees; no political opinion"
+  }
+ ]
 }

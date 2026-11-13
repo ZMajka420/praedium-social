@@ -1,0 +1,41 @@
+{
+ "source": "NAR Existing-Home Sales report, October 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Home sales",
+   "headline": ["Home sales hit", "*a 16-year low*"],
+   "fig": "3.75M",
+   "fig_caption": "Annualized pace of existing-home sales in October",
+   "sub": "The slowest month since August 2010, with 30-year rates averaging 7.33%."
+  },
+  {
+   "type": "bars",
+   "kicker": "Every region fell",
+   "title": "Sales drop, *by region*",
+   "bars": [["West", 14.5], ["Midwest", 8.2], ["South", 8.0], ["Northeast", 4.1]],
+   "prefix": "-",
+   "unit": "%",
+   "highlight": ["Midwest"],
+   "note": "Year-over-year change in sales pace. *Midwest median price still rose 1.5%* to $324,300."
+  },
+  {
+   "type": "points",
+   "kicker": "Who's buying",
+   "title": "The market *mix shifts*",
+   "points": [
+    "*First-time buyers:* 29% of sales, down from 32% a year ago.",
+    "*Investors, second homes:* 20%, up from 16%.",
+    "*Supply:* 5.1 months, up from 4.4 last October.",
+    "*Prices:* median $416,700, up 0.4% for a 40th straight annual gain."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Slower sales, *steady prices*",
+   "body": "More supply and a 35-day median time on market give buyers room to negotiate, but values aren't falling. Price listings to today's pace, and keep sidelined buyers warm: NAR sees pent-up demand if rates ease.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
