@@ -1,0 +1,98 @@
+{
+ "source": "HousingWire Data and Modex via HousingWire, Nov. 13, 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Buyer demand",
+   "headline": [
+    "Midwest buyers",
+    "*keep showing up*"
+   ],
+   "fig": "127",
+   "fig_caption": "Pending sales per 100 new listings in Columbus, Ohio",
+   "sub": "With rates above 7%, several Midwest metros are still absorbing new listings faster than the U.S. average."
+  },
+  {
+   "type": "bars",
+   "kicker": "Contracts vs. new supply",
+   "title": "Pendings per *100 listings*",
+   "bars": [
+    [
+     "Columbus",
+     127
+    ],
+    [
+     "Cincinnati",
+     125
+    ],
+    [
+     "U.S. average",
+     95
+    ],
+    [
+     "Cleveland",
+     91
+    ],
+    [
+     "St. Louis",
+     90
+    ]
+   ],
+   "highlight": [
+    "U.S. average"
+   ],
+   "note": "Per 100 new listings, HousingWire Data as of Nov. 6, 2026. *Above 100 means contracts outpace* new supply."
+  },
+  {
+   "type": "bars",
+   "kicker": "The affordability edge",
+   "title": "Median list price, *by market*",
+   "bars": [
+    [
+     "U.S. average",
+     429
+    ],
+    [
+     "Cincinnati",
+     300
+    ],
+    [
+     "Columbus",
+     255
+    ],
+    [
+     "St. Louis",
+     225
+    ],
+    [
+     "Cleveland",
+     174
+    ]
+   ],
+   "prefix": "$",
+   "unit": "K",
+   "highlight": [
+    "U.S. average"
+   ],
+   "note": "Lower prices mean smaller loans, which soften the hit from *mortgage rates above 7%*."
+  },
+  {
+   "type": "points",
+   "kicker": "What's driving it",
+   "title": "Why demand is *holding up*",
+   "points": [
+    "*Smaller loans:* median purchase loans ran from about $217K in Cleveland to $295K in Columbus.",
+    "*Entry-level deals:* over 20% of purchase loans in Cleveland and St. Louis were under $150K.",
+    "*Assistance programs:* first-time buyers using down payment aid and state bond loans.",
+    "*Jobs and moves:* local hiring and buyers relocating from pricier states."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Affordability *still sells*",
+   "body": "Where prices are within reach, buyers are adapting to high rates rather than waiting. Lead with the monthly payment, know your local down payment assistance options, and watch how fast pendings absorb new listings in your market.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

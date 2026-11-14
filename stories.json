@@ -155,15 +155,6 @@
  "backlog": [
   {
    "found": "2026-11-09",
-   "title": "Serhant aligns with American Real Estate Association (ARA) to raise agent standards; Ryan Serhant warns brokers to stop protecting the old business model",
-   "sources": [
-    "HousingWire, Nov 9 2026: https://www.housingwire.com/articles/serhant-joins-american-real-estate-association-ara/",
-    "HousingWire, Nov 9 2026: https://www.housingwire.com/articles/ryan-serhant-leads-not-splits/"
-   ],
-   "angle": "Alternative to NAR? Agent standards debate; not yet fetched, verify details before use"
-  },
-  {
-   "found": "2026-11-09",
    "title": "October data recap: NAHB builder index 29 (14-year low), 43% of builders cutting prices (six-year high); pending sales -11.3% YoY; median existing-home price $417,500 (+1.3%)",
    "sources": [
     "RISMedia Econ Review, Nov 5 2026: https://www.rismedia.com/?p=480266"
@@ -273,6 +264,14 @@
     "The Real Deal Chicago, Nov 6 2026: https://therealdeal.com/chicago/2026/11/06/cook-county-tax-auction-to-resume/"
    ],
    "angle": "Chicago angle; fewer distressed tax-delinquent homes, pair with foreclosure data after Nov 18"
+  },
+  {
+   "found": "2026-11-14",
+   "title": "Fifth Circuit appeal over FinCEN's residential real estate anti-money-laundering reporting rule (all-cash/non-financed transfers to entities and trusts); rule's future uncertain",
+   "sources": [
+    "HousingWire, Nov 13 2026: https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/"
+   ],
+   "angle": "What changes for agents/title on cash deals; not yet fetched, verify details. No legal advice"
   }
  ]
 }
