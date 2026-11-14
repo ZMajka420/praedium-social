@@ -1,0 +1,42 @@
+{
+ "source": "RealScout and Zillow announcements via BAM, Inman and Real Estate News",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Listing access",
+   "headline": [
+    "Pre-MLS listings",
+    "*hit your search app*"
+   ],
+   "fig": "100K+",
+   "fig_caption": "RealScout users who can now see Zillow Preview homes",
+   "sub": "As of Nov. 12, Zillow's pre-market listings show up inside a search tool agents share with buyers."
+  },
+  {
+   "type": "points",
+   "kicker": "How it works",
+   "title": "What changes *for agents*",
+   "points": [
+    "*No setup:* listings from hundreds of brokerages appear without agents opting in.",
+    "*In the feed:* Preview homes land in saved searches and alerts you already send clients.",
+    "*Buyer contact:* clients can message you about a Preview home they like.",
+    "*Going live:* once the pre-market window ends, the MLS listing replaces the Preview.",
+    "*Broker choice:* each participating brokerage decides whether to send its Preview listings."
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "The bigger picture",
+   "big": "235M",
+   "label": "average monthly unique users on Zillow, where Preview debuted",
+   "body": "Zillow announced Preview in March with Keller Williams, REMAX, HomeServices of America, Side and United Real Estate. RealScout added eXp Coming Soon listings less than a month before Preview."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Pre-market is *going mainstream*",
+   "body": "Homes that once circulated quietly are reaching buyers before they hit the MLS. Review your clients' saved searches, explain how Preview and Coming Soon homes work, and make sure buyers hear about new inventory from you first.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

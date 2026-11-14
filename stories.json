@@ -164,14 +164,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-09",
-   "title": "October data recap: NAHB builder index 29 (14-year low), 43% of builders cutting prices (six-year high); pending sales -11.3% YoY; median existing-home price $417,500 (+1.3%)",
-   "sources": [
-    "RISMedia Econ Review, Nov 5 2026: https://www.rismedia.com/?p=480266"
-   ],
-   "angle": "Builders discounting to compete with resale listings; refresh figures before use"
-  },
-  {
    "found": "2026-11-10",
    "title": "NAR approves four MLS policies at NXT: data feeds (IDX/VOW/BBO/syndication) separated from MLS participation with local eligibility rules and optional cost recovery; uses not permitted by license are prohibited; MLSs may optionally require assignment of up to 50% copyright interest (opt-out allowed); new MLS committee experience rules from 2027",
    "sources": [
@@ -282,6 +274,14 @@
     "HousingWire, Nov 13 2026: https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/"
    ],
    "angle": "What changes for agents/title on cash deals; not yet fetched, verify details. No legal advice"
+  },
+  {
+   "found": "2026-11-14",
+   "title": "NY Fed Q3 2026 household debt: ~5.0% of balances in some stage of delinquency (+0.3 pp), 90+ day share 3.4%; mortgage serious delinquency 1.1% (+0.1 pp), mortgage transition into serious delinquency 1.6% (from 1.5%); auto 5.7%, student loans 10.9%",
+   "sources": [
+    "NAHB Eye on Housing, Nov 11 2026: https://eyeonhousing.org/2026/11/household-debt-delinquencies-rise-as-mortgage-performance-weakens/"
+   ],
+   "angle": "Mortgage stress creeping up; pair with ATTOM October foreclosure report when out, verify against NY Fed original"
   }
  ]
 }
