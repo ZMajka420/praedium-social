@@ -96,7 +96,9 @@ def slide_html(s, i, n, source):
         fig = f'<div class="fig"><div class="num">{html.escape(s["fig"])}</div><div class="cap">{accent(s.get("fig_caption",""))}</div></div>' if s.get("fig") else ""
         body = f'<div class="content">{fig}{k}<h1>{h}</h1><div class="sub">{accent(s.get("sub",""))}</div></div>'
     elif t == "stat":
-        body = f'<div class="content">{k}<div class="big">{html.escape(s["big"])}</div><div class="label">{accent(s["label"])}</div><div class="rule"></div><div class="body">{accent(s.get("body",""))}</div></div>'
+        n_big = len(s["big"])
+        big_style = f' style="font-size:{int(300*5.4/n_big)}px;letter-spacing:-{max(6, int(12*5.4/n_big))}px"' if n_big > 5 else ""
+        body = f'<div class="content">{k}<div class="big"{big_style}>{html.escape(s["big"])}</div><div class="label">{accent(s["label"])}</div><div class="rule"></div><div class="body">{accent(s.get("body",""))}</div></div>'
     elif t == "bars":
         mx = max(v for _, v in s["bars"]) or 1
         unit = s.get("unit", "")

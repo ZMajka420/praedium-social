@@ -1,0 +1,74 @@
+{
+ "source": "Redfin October 2026 buyers vs. sellers report via BAM",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Market balance",
+   "headline": [
+    "41 of 50 big metros",
+    "*now favor buyers*"
+   ],
+   "fig": "70.5%",
+   "fig_caption": "More sellers than buyers nationwide in October",
+   "sub": "The widest seller surplus in Redfin data going back to 2013."
+  },
+  {
+   "type": "stat",
+   "kicker": "The buyer pool",
+   "big": "895,752",
+   "label": "active homebuyers in October, the *fewest on Redfin record*",
+   "body": "Sellers climbed to 1,526,984, the most since March 2020, while mortgage rates averaged 7.33%, up from 6.86% in September."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where the gap is widest",
+   "title": "The seller surplus, *by metro*",
+   "bars": [
+    [
+     "Miami",
+     195.8
+    ],
+    [
+     "Nashville",
+     159.5
+    ],
+    [
+     "Las Vegas",
+     149.9
+    ],
+    [
+     "U.S. overall",
+     70.5
+    ],
+    [
+     "Chicago",
+     8.1
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "Chicago"
+   ],
+   "note": "Chicago rates as *balanced*: sellers and buyers within 10% of each other, by Redfin's definition."
+  },
+  {
+   "type": "points",
+   "kicker": "The scoreboard",
+   "title": "How the top 50 metros *break down*",
+   "points": [
+    "*41 buyer's markets:* sellers outnumber buyers by more than 10%.",
+    "*6 balanced markets,* Chicago among them.",
+    "*3 seller's markets,* all in the Northeast. That ties April 2020 for the fewest since 2016.",
+    "*3.3% vs. 0.3%:* average annual price growth in seller's markets vs. buyer's markets."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Buyers have *the edge*",
+   "body": "61% of October sales closed below original list price. Price new listings to today's market, prep sellers for negotiation, and show buyers the room they have.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
