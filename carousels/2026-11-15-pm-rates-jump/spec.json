@@ -1,0 +1,66 @@
+{
+ "source": "Mortgage News Daily, Freddie Mac, Zillow and HousingWire",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Mortgage rates",
+   "headline": [
+    "Rates hit 7.5%",
+    "*in three days*"
+   ],
+   "fig": "+0.32",
+   "fig_caption": "percentage points on the daily 30-year index, Nov. 9 to Nov. 13",
+   "sub": "A hotter-than-expected inflation report pushed the 30-year from 7.18% to 7.50%."
+  },
+  {
+   "type": "stat",
+   "kicker": "Mind the lag",
+   "big": "7.11%",
+   "label": "*Fourth straight drop* in Freddie Mac's weekly average",
+   "body": "The weekly survey mostly reflects the calm days before the Nov. 10 inflation report. Daily quotes ran higher: the Mortgage News Daily index closed the week at 7.50%."
+  },
+  {
+   "type": "bars",
+   "kicker": "Zillow purchase rates, one-week change",
+   "title": "A one-week *rate jump*",
+   "bars": [
+    [
+     "5/1 ARM",
+     72
+    ],
+    [
+     "15-year fixed",
+     43
+    ],
+    [
+     "30-year fixed",
+     41
+    ]
+   ],
+   "prefix": "+",
+   "unit": " bp",
+   "highlight": [
+    "5/1 ARM"
+   ],
+   "note": "The 5/1 ARM average, *7.45%*, now sits above the 30-year fixed average of 7.27%."
+  },
+  {
+   "type": "points",
+   "kicker": "Behind the move",
+   "title": "What moved, *and why*",
+   "points": [
+    "*0.4% vs. 0.3%:* October consumer prices beat forecasts; core rose 0.3% vs. 0.2%.",
+    "*5.10%:* the 10-year Treasury yield on Nov. 12, up from 4.86% on Nov. 6.",
+    "*+8%:* purchase applications week over week, per HousingWire's tracker.",
+    "*About $67 a month:* added principal and interest on a $300,000 loan at 7.50% vs. 7.17%."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Rerun the *payment math*",
+   "body": "Weekly averages lag fast moves. Have buyers refresh preapprovals and confirm today's quote with their lender before writing offers, so a sudden jump doesn't surprise anyone at the table.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
