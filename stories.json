@@ -175,14 +175,6 @@
  "backlog": [
   {
    "found": "2026-11-10",
-   "title": "Realtor.com Oct 2026 luxury report: top-10% threshold $1,197,014 (-2.3% YoY), top 5% -4.1%, top 1% -6.2% to ~$5.1M; 31 straight months of declines; 12 of 43 metros up 1%+, five in Florida; Naples +9%, San Jose -12.1%, NY -11.3%",
-   "sources": [
-    "Fortune, Nov 10 2026: https://fortune.com/2026/11/10/luxury-home-prices-are-falling-nationwide-except-in-florida-where-billionaires-like-jeff-bezos-and-ken-griffin-have-spent-hundreds-of-millions/"
-   ],
-   "angle": "Luxury softening; no Chicago figure in article, check Realtor.com original"
-  },
-  {
-   "found": "2026-11-10",
    "title": "Zillow 2027 Home Trends: AI mentions in listings +119% YoY, home offices +42%, multigenerational +58%, spa-inspired baths +60%, 'sustainable/green' -26%, whole-home batteries +43%",
    "sources": [
     "Zillow press release, Nov 10 2026: https://prnewswire.com/news-releases/zillows-2027-home-trends-report-digital-detox-colormaxxing-and-catios-302934350.html"
@@ -284,6 +276,22 @@
     "NAHB Eye on Housing, Nov 11 2026: https://eyeonhousing.org/2026/11/household-debt-delinquencies-rise-as-mortgage-performance-weakens/"
    ],
    "angle": "Mortgage stress creeping up; pair with ATTOM October foreclosure report when out, verify against NY Fed original"
+  },
+  {
+   "found": "2026-11-16",
+   "title": "Financial Health Network report 'Rising Costs, Shrinking Coverage' (Nov 10 2026): 54% of households at least somewhat confident insurance would cover them, lowest since 2018; home insurance share of income 1.2% (2000) to 2.1% (2022); non-renewals rose in 35 states 2018-2023; insurer-of-last-resort residential policies +77% 2019-2024; CA FAIR Plan +152% since Sept 2022; Chicago Fed research links $1,000 premium increase to higher mortgage denials",
+   "sources": [
+    "GlobeNewswire, Nov 10 2026: https://www.globenewswire.com/news-release/2026/11/10/3399622/0/en/new-financial-health-network-report-finds-rising-home-insurance-costs-put-financial-stability-at-risk-for-households-across-the-u-s.html"
+   ],
+   "angle": "Insurance costs as a deal risk; no Illinois figures"
+  },
+  {
+   "found": "2026-11-16",
+   "title": "HousingWire weekly tracker (Nov 14 2026): inventory 895,988 (down 6,752 WoW, +7.11% YoY) as seasonal decline sets in; new listings 53,162 vs 56,569 a year ago; pending 50,623 vs 60,722; price-cut share ~43% vs 42%",
+   "sources": [
+    "HousingWire, Nov 14 2026: https://www.housingwire.com/articles/inventory-seasonal-decline-rates/"
+   ],
+   "angle": "Seasonal inventory turn; refresh with newest weekly before use; overlaps pending-slump and rates posts"
   }
  ]
 }

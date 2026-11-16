@@ -1,0 +1,99 @@
+{
+ "source": "NAR 2026 Technology Report; California DRE; Real Estate News",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Agents and AI",
+   "headline": [
+    "Your AI, your",
+    "*responsibility*"
+   ],
+   "fig": "23%",
+   "fig_caption": "of Realtors use AI every day, per NAR's 2026 tech report",
+   "sub": "Adoption is climbing fast, and regulators are spelling out who answers when AI gets it wrong."
+  },
+  {
+   "type": "bars",
+   "kicker": "How often Realtors use AI",
+   "title": "Nearly half, *every week*",
+   "bars": [
+    [
+     "Daily",
+     23
+    ],
+    [
+     "Weekly",
+     25
+    ],
+    [
+     "Occasionally",
+     31
+    ],
+    [
+     "Curious, not yet",
+     9
+    ],
+    [
+     "No plans",
+     12
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Daily",
+    "Weekly"
+   ],
+   "note": "Only *12%* have no plans to use AI. In 2025, 32% hadn't tried it."
+  },
+  {
+   "type": "bars",
+   "kicker": "Top uses among agents who use AI",
+   "title": "What agents hand to *AI*",
+   "bars": [
+    [
+     "Listing copy",
+     75
+    ],
+    [
+     "Social posts",
+     56
+    ],
+    [
+     "Emails",
+     52
+    ],
+    [
+     "Market recaps",
+     30
+    ],
+    [
+     "Doc review",
+     27
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Listing copy"
+   ],
+   "note": "The top AI task is the copy buyers see first: *the listing*."
+  },
+  {
+   "type": "points",
+   "kicker": "Who answers for AI errors",
+   "title": "The tool isn't *the excuse*",
+   "points": [
+    "*California's DRE:* licensees and brokers, not software vendors, own AI mistakes.",
+    "*No AI defense:* using AI doesn't excuse a misleading ad or an inaccurate claim.",
+    "*Altered photos:* since Jan. 1, 2026, California requires disclosing AI-changed listing images and offering the originals.",
+    "*NAR's AI policy kit:* agents and staff are fully accountable for the AI content they use."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Check it *before you send it*",
+   "body": "Use AI for first drafts, not final answers. Verify comps, property facts and photos against reliable sources, and only share what you can explain to a client yourself.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
