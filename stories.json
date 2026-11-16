@@ -192,14 +192,6 @@
    "angle": "Listing-copy trends; light, evergreen-ish for a slow day"
   },
   {
-   "found": "2026-11-10",
-   "title": "Compass bars salaried employees and brokerage managers from state and local Realtor association leadership roles, extending an Anywhere policy; unclear if current leaders must step down or if non-Realtor MLSs are covered; Compass joined ARA in July",
-   "sources": [
-    "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/compass-realtor-leadership-ban/"
-   ],
-   "angle": "Brokerage vs. NAR governance; light on numbers, pair with ARA/Serhant backlog item"
-  },
-  {
    "found": "2026-11-13",
    "title": "Redfin four weeks ending Nov 8: pending sales 275,980 (-15.54% YoY, lowest in Redfin records), median sale price $388,613 (-0.9%, fourth straight weekly drop), median payment $2,755 (six-week low, +9% YoY), rate 7.18%, months of supply 4.7, 21% of listings with price drops; pending sales down in every metro analyzed (Seattle -31.1%)",
    "sources": [
@@ -302,6 +294,14 @@
     "HousingWire, Nov 14 2026: https://www.housingwire.com/articles/inventory-seasonal-decline-rates/"
    ],
    "angle": "Seasonal inventory turn; refresh with newest weekly before use; overlaps pending-slump and rates posts"
+  },
+  {
+   "found": "2026-11-16",
+   "title": "Connecticut becomes 8th state offering first responders down payment and closing cost help (figures need verification)",
+   "sources": [
+    "Inman, Nov 13 2026: https://www.inman.com/2026/11/13/first-responder-home-aid/"
+   ],
+   "angle": "State buyer-assistance programs agents can flag to clients; check whether Illinois has one"
   }
  ]
 }

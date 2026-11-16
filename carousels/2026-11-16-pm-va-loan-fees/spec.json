@@ -1,0 +1,70 @@
+{
+ "source": "HousingWire, NAR and Inside Mortgage Finance",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Policy watch",
+   "headline": [
+    "VA loan fees could",
+    "*nearly triple*"
+   ],
+   "fig": "1.42%",
+   "fig_caption": "Proposed fee on VA streamline refinances (IRRRLs), up from 0.5%",
+   "sub": "A House-passed veterans bill would pay for new benefits by raising fees on VA refinances and loan assumptions."
+  },
+  {
+   "type": "bars",
+   "kicker": "Fee as a share of the loan",
+   "title": "Now vs. *proposed*",
+   "bars": [
+    [
+     "IRRRL now",
+     0.5
+    ],
+    [
+     "IRRRL new",
+     1.42
+    ],
+    [
+     "Assume now",
+     0.5
+    ],
+    [
+     "Assume new",
+     1
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "IRRRL new",
+    "Assume new"
+   ],
+   "note": "The assumption fee would *double*. Current purchase and cash-out funding fees would be extended for nondisabled veterans."
+  },
+  {
+   "type": "stat",
+   "kicker": "The cost to borrowers",
+   "big": "$8,550",
+   "label": "estimated added cost over the life of a *$400,000* VA loan",
+   "body": "That estimate comes from a mortgage broker coalition, which says the breakeven on a VA streamline refi would stretch from about 1.5 years to about 5."
+  },
+  {
+   "type": "points",
+   "kicker": "Where it stands",
+   "title": "Next stop: *the Senate*",
+   "points": [
+    "H.R. 9237 passed the House by voice vote on Veterans Day, bundled into a package of 60 veterans measures.",
+    "The fee hikes come from H.R. 6047, which cleared the House in June and then stalled in the Senate.",
+    "House VA Committee Chair Mike Bost of Illinois says he aims to get it to the president by year-end.",
+    "NAR backs the benefits but has asked lawmakers to strip out the fee increases."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Nothing changes *yet*",
+   "body": "If it becomes law, buyers taking over a seller's low-rate VA loan would pay twice the assumption fee, and veteran clients weighing a streamline refi would wait longer to break even. Worth watching before year-end.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
