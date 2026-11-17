@@ -195,14 +195,6 @@
  "backlog": [
   {
    "found": "2026-11-11",
-   "title": "Better.com posts Q3 2026 loss, cuts managers and leans on AI (figures need verification)",
-   "sources": [
-    "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/better-com-q3-2026-loss/"
-   ],
-   "angle": "Lender tech consolidation; what AI-first lending means for agent-lender partnerships"
-  },
-  {
-   "found": "2026-11-11",
    "title": "Buyers gaining leverage: lenders report ~75% of clients getting seller concessions averaging $10,000+; HousingWire 30-yr avg 7.35% Nov 10 (down from 7.38%)",
    "sources": [
     "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/mortgage-rates-ease-buyers/"
@@ -312,6 +304,14 @@
     "HousingWire, Nov 16 2026: https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/"
    ],
    "angle": "Institutional SFR owners selling could add resale inventory"
+  },
+  {
+   "found": "2026-11-17",
+   "title": "Redfin weekly: monthly mortgage payments fall to a six-week low as median sale price slips 0.9% YoY, fourth straight weekly decline (figures not yet fetched; verify)",
+   "sources": [
+    "Redfin via Finviz, Nov 2026: https://finviz.com/news/421619/redfin-reports-monthly-mortgage-payments-fall-to-lowest-level-in-6-weeks-as-home-prices-keep-dipping"
+   ],
+   "angle": "Small affordability relief for buyers; overlaps Nov 11 prices-dip post, use only with fresh weekly figures"
   }
  ]
 }

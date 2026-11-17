@@ -1,0 +1,64 @@
+{
+ "source": "NAHB/Wells Fargo Housing Market Index, Nov. 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "New construction",
+   "headline": [
+    "Builder mood hits",
+    "a *14-year low*"
+   ],
+   "fig": "25",
+   "fig_caption": "NAHB/Wells Fargo builder sentiment index, November 2026. The lowest reading since April 2012.",
+   "sub": "Down 4 points in a month as mortgage rates above 7% keep buyers on the sidelines."
+  },
+  {
+   "type": "stat",
+   "kicker": "Price cuts",
+   "big": "46%",
+   "label": "of builders *cut prices* in November",
+   "body": "That's the highest share of the post-Covid period. The typical cut held at 6% for the eighth straight month."
+  },
+  {
+   "type": "stat",
+   "kicker": "Incentives",
+   "big": "68%",
+   "label": "of builders offered *sales incentives*",
+   "body": "Another post-Covid high, and the 20th month in a row at 60% or more."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where builders stand",
+   "title": "Sentiment *by region*",
+   "bars": [
+    [
+     "Midwest",
+     35
+    ],
+    [
+     "Northeast",
+     34
+    ],
+    [
+     "South",
+     27
+    ],
+    [
+     "West",
+     23
+    ]
+   ],
+   "highlight": [
+    "Midwest"
+   ],
+   "note": "Three-month averages. All four regions slipped, and buyer traffic fell to *16*, a 15-year low outside April 2020."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Builders are *ready to deal*",
+   "body": "With 46% of builders cutting prices and 68% offering incentives, new construction deserves a fresh look for buyer clients. Ask what's on the table and compare it with resale options.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
