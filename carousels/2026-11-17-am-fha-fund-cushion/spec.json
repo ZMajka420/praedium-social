@@ -1,0 +1,64 @@
+{
+ "source": "HUD FY2026 MMI Fund report via HousingWire",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "FHA watch",
+   "headline": [
+    "FHA's cushion is",
+    "*5x the floor*"
+   ],
+   "fig": "10.29%",
+   "fig_caption": "FHA insurance fund capital ratio as of Sept. 30, 2026. The legal minimum is 2%.",
+   "sub": "A strong annual report has lenders pushing for lower mortgage insurance premiums."
+  },
+  {
+   "type": "stat",
+   "kicker": "Who FHA serves",
+   "big": "83%",
+   "label": "of FHA purchase loans in FY2026 went to *first-time buyers*",
+   "body": "That's more than 530,000 first-time buyers, out of over 935,000 total FHA borrowers."
+  },
+  {
+   "type": "bars",
+   "kicker": "The capital cushion",
+   "title": "*Well above* the floor",
+   "bars": [
+    [
+     "FY2025",
+     11.47
+    ],
+    [
+     "FY2026",
+     10.29
+    ],
+    [
+     "Legal min.",
+     2
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "FY2026"
+   ],
+   "note": "The ratio slipped 1.18 points, partly because the 2023 premium cut means newer loans bring in less revenue. It has cleared 2% for *12 straight years*."
+  },
+  {
+   "type": "points",
+   "kicker": "The premium debate",
+   "title": "Will MIP *come down?*",
+   "points": [
+    "The MBA wants a modest cut to annual premiums, paired with safeguards to protect the fund.",
+    "The Community Home Lenders of America wants FHA to end life-of-loan premiums, a 2013 policy.",
+    "HUD officials say they're comfortable with current capital levels, which signals no immediate premium change."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Watch the *premium fight*",
+   "body": "FHA remains a key path for first-time buyers. Any cut to monthly premiums would lower payments and stretch budgets for those clients. Nothing has changed yet, so keep current MIP in your payment math for now.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

@@ -194,22 +194,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-10",
-   "title": "Zillow 2027 Home Trends: AI mentions in listings +119% YoY, home offices +42%, multigenerational +58%, spa-inspired baths +60%, 'sustainable/green' -26%, whole-home batteries +43%",
-   "sources": [
-    "Zillow press release, Nov 10 2026: https://prnewswire.com/news-releases/zillows-2027-home-trends-report-digital-detox-colormaxxing-and-catios-302934350.html"
-   ],
-   "angle": "Listing-copy trends; light, evergreen-ish for a slow day"
-  },
-  {
-   "found": "2026-11-13",
-   "title": "Redfin four weeks ending Nov 8: pending sales 275,980 (-15.54% YoY, lowest in Redfin records), median sale price $388,613 (-0.9%, fourth straight weekly drop), median payment $2,755 (six-week low, +9% YoY), rate 7.18%, months of supply 4.7, 21% of listings with price drops; pending sales down in every metro analyzed (Seattle -31.1%)",
-   "sources": [
-    "Redfin via PR Newswire, Nov 12 2026: https://www.prnewswire.com/news-releases/redfin-reports-monthly-mortgage-payments-fall-to-lowest-level-in-6-weeks-as-home-prices-keep-dipping-302937710.html"
-   ],
-   "angle": "Weekly tracker; refresh with newest Redfin weekly before use, no Chicago figure"
-  },
-  {
    "found": "2026-11-11",
    "title": "Better.com posts Q3 2026 loss, cuts managers and leans on AI (figures need verification)",
    "sources": [
@@ -312,6 +296,22 @@
     "Inman, Nov 13 2026: https://www.inman.com/2026/11/13/first-responder-home-aid/"
    ],
    "angle": "State buyer-assistance programs agents can flag to clients; check whether Illinois has one"
+  },
+  {
+   "found": "2026-11-17",
+   "title": "Lenders increasingly pull the new credit score model (VantageScore 4.0) but few use it for loan pricing (figures not yet fetched; verify)",
+   "sources": [
+    "HousingWire, Nov 16 2026: https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/"
+   ],
+   "angle": "What the credit score switch means for buyer pre-approvals"
+  },
+  {
+   "found": "2026-11-17",
+   "title": "Activist hedge fund Land & Buildings pressures Invitation Homes to speed up single-family home sales (details not yet fetched; verify)",
+   "sources": [
+    "HousingWire, Nov 16 2026: https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/"
+   ],
+   "angle": "Institutional SFR owners selling could add resale inventory"
   }
  ]
 }
