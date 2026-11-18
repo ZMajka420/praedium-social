@@ -1,0 +1,61 @@
+{
+ "source": "Consumer Policy Center report via Inman, Nov. 17, 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Licensing",
+   "headline": [
+    "Illinois sets the bar",
+    "on *agent records*"
+   ],
+   "fig": "7/8",
+   "fig_caption": "Illinois' score in a 50-state review of how license lookups show agent discipline. The top mark.",
+   "sub": "Only 2 of the 47 states rated earned a \"good\" grade: Illinois and Arizona."
+  },
+  {
+   "type": "bars",
+   "kicker": "The report card",
+   "title": "How *47 states* graded",
+   "bars": [
+    [
+     "Good",
+     2
+    ],
+    [
+     "Needs improvement",
+     21
+    ],
+    [
+     "Poor",
+     24
+    ]
+   ],
+   "unit": "",
+   "highlight": [
+    "Good"
+   ],
+   "note": "Scored on findability, plain-language explanation and work history. *16 states scored zero.* Kentucky, Washington and Wyoming couldn't be rated."
+  },
+  {
+   "type": "stat",
+   "kicker": "Up front",
+   "big": "3",
+   "label": "states flag discipline in the *first result* a consumer sees",
+   "body": "Illinois, Delaware and Idaho. Only Illinois also explains the action in plain language. It lost a point for not listing past brokerages."
+  },
+  {
+   "type": "stat",
+   "kicker": "The AI test",
+   "big": "34",
+   "label": "of 47 states where an AI search *found no record*",
+   "body": "Given an agent's name, license number and state, the AI came up empty, which a consumer could mistake for a clean record."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Know your *own record*",
+   "body": "The report urges states to flag actions in search results, list past brokerages and keep records public longer. These are recommendations, not rules. Check your own license page so you know what clients see.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

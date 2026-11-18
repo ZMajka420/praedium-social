@@ -205,22 +205,6 @@
  "backlog": [
   {
    "found": "2026-11-11",
-   "title": "Buyers gaining leverage: lenders report ~75% of clients getting seller concessions averaging $10,000+; HousingWire 30-yr avg 7.35% Nov 10 (down from 7.38%)",
-   "sources": [
-    "HousingWire, Nov 10 2026: https://www.housingwire.com/articles/mortgage-rates-ease-buyers/"
-   ],
-   "angle": "Concessions as the new negotiating norm; anecdotal, pair with hard concession data"
-  },
-  {
-   "found": "2026-11-11",
-   "title": "Compass formalizes broker-to-broker cooperation policy: agents must share info on all listings (incl. Private Exclusive and Coming Soon) with outside brokers on request unless client directs otherwise in writing, respond timely, allow showings; off-MLS listings follow Bright MLS cooperation rule. Reffkin: 45 of top 50 MLSs restrict Coming Soon. Context: Compass-MRED partnership drew House antitrust subcommittee briefings in July",
-   "sources": [
-    "Real Estate News, Nov 11 2026: https://www.realestatenews.com/2026/11/11/compass-makes-broker-to-broker-cooperation-rules-official"
-   ],
-   "angle": "What changes when co-oping with Compass private listings; Chicago/MRED tie-in. Close to Nov 8 MLS-vs-Compass post, hold until ~Nov 22"
-  },
-  {
-   "found": "2026-11-11",
    "title": "The Agency 2027 Red Paper: 84% of agents across 180 locations say too early to tell if AI wealth is lifting business; SF sales over $20M: 6 in 2026 (to early Aug) vs 1 in all of 2025; over $5M: 129 vs 113",
    "sources": [
     "Inman, Nov 10 2026: https://inman.com/2026/11/10/luxury-agents-brace-for-a-post-ipo-buying-wave"
@@ -322,6 +306,22 @@
     "Redfin via Finviz, Nov 2026: https://finviz.com/news/421619/redfin-reports-monthly-mortgage-payments-fall-to-lowest-level-in-6-weeks-as-home-prices-keep-dipping"
    ],
    "angle": "Small affordability relief for buyers; overlaps Nov 11 prices-dip post, use only with fresh weekly figures"
+  },
+  {
+   "found": "2026-11-18",
+   "title": "UAD 3.6 appraisal form now in effect (Nov 2, 2026) for Fannie/Freddie conventional loans; some lenders may use old form until May; appraisers must document updates (what and when), condition of major components, separate interior/exterior condition and quality ratings",
+   "sources": [
+    "Inman, Nov 17 2026: https://www.inman.com/2026/11/17/uad-3-6-appraisal-changes/"
+   ],
+   "angle": "Listing-appointment checklist: document improvements, permits, dates for the new appraisal form"
+  },
+  {
+   "found": "2026-11-18",
+   "title": "Homeward expands agent-only cash-offer product from 13 states to all 48 contiguous states; sellers can close in as little as 14 days; Buy Before You Sell in 16 states (not IL), most states by Q1 2027; no pricing disclosed",
+   "sources": [
+    "HousingWire, Nov 18 2026: https://www.housingwire.com/articles/homeward-cash-offer-48-states/"
+   ],
+   "angle": "Cash offers as a tool against deal fall-through"
   }
  ]
 }
