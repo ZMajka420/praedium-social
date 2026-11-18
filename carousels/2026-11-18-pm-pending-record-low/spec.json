@@ -1,0 +1,63 @@
+{
+ "source": "NAR Pending Home Sales Index, Oct. 2026; HousingWire",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Pending home sales",
+   "headline": [
+    "Contract signings",
+    "hit a *record low*"
+   ],
+   "fig": "63",
+   "fig_caption": "NAR Pending Home Sales Index, Oct. 2026 (2001 average = 100)",
+   "sub": "The second straight record low: down 4.7% from September and 16.7% from a year ago."
+  },
+  {
+   "type": "bars",
+   "kicker": "Every region fell",
+   "title": "Pending sales vs. a year ago, *by region*",
+   "bars": [
+    [
+     "West",
+     20.3
+    ],
+    [
+     "South",
+     18.7
+    ],
+    [
+     "U.S.",
+     16.7
+    ],
+    [
+     "Midwest",
+     14.0
+    ],
+    [
+     "Northeast",
+     11.1
+    ]
+   ],
+   "prefix": "-",
+   "unit": "%",
+   "highlight": [
+    "Midwest"
+   ],
+   "note": "All four regions also fell from September. *The West dropped most (6.9%)*, while the Midwest dipped 2.7%."
+  },
+  {
+   "type": "stat",
+   "kicker": "The Chicago angle",
+   "big": "-11.9%",
+   "label": "Chicago's yearly drop, among the *10 smallest* of big U.S. metros",
+   "body": "Chicago-Naperville-Elgin ranked fifth for the smallest decline among the 50 largest metros, per Realtor.com Economics. Contracts fell year over year in all 50."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "The bottom *may be here*",
+   "body": "NAR's Lawrence Yun says October could mark this cycle's low for contracts, since rates appear to have peaked. Expect thin closings through year-end, and stay close to buyers who paused. They may move fast if rates ease.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
