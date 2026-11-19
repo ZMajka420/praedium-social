@@ -1,0 +1,55 @@
+{
+ "source": "Census Bureau Oct. 2026 data via Reuters; Realtor.com",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "New construction",
+   "headline": [
+    "Building permits",
+    "hit a *2020 low*"
+   ],
+   "fig": "1.295M",
+   "fig_caption": "Total building permits in October (annual rate), the fewest since May 2020",
+   "sub": "Starts jumped in October, but permits, the early signal for future building, fell 7.4% in a month."
+  },
+  {
+   "type": "bars",
+   "kicker": "Why starts jumped",
+   "title": "October housing starts, *change vs. September*",
+   "bars": [
+    [
+     "Apartments",
+     25.5
+    ],
+    [
+     "All starts",
+     9.9
+    ],
+    [
+     "Single-family",
+     4.0
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "Apartments"
+   ],
+   "note": "Total starts reached 1.309M, well above the 1.245M economists expected. *Apartments (5+ units) did most of the lifting.*"
+  },
+  {
+   "type": "stat",
+   "kicker": "The pipeline",
+   "big": "772K",
+   "label": "single-family permits, *down 8.7%* from September",
+   "body": "That's the fewest since January 2023, and permits fell in all four regions. In the Midwest, single-family starts also slipped 0.8%, the only region to decline."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Fewer new homes *on deck*",
+   "body": "Permits come before shovels, so today's pullback means less new-build competition for resale listings down the road. With the 30-year rate at 7.18%, builders are still clearing unsold homes, so expect incentives to stay in play.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

@@ -224,22 +224,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-11",
-   "title": "The Agency 2027 Red Paper: 84% of agents across 180 locations say too early to tell if AI wealth is lifting business; SF sales over $20M: 6 in 2026 (to early Aug) vs 1 in all of 2025; over $5M: 129 vs 113",
-   "sources": [
-    "Inman, Nov 10 2026: https://inman.com/2026/11/10/luxury-agents-brace-for-a-post-ipo-buying-wave"
-   ],
-   "angle": "Luxury and AI-IPO wealth; pair with Realtor.com luxury backlog item"
-  },
-  {
-   "found": "2026-11-12",
-   "title": "Payments outpace pay: Freddie Mac 30-yr 7.11% (week ending Nov 12) vs 6.24% a year ago; P&I on $416,700 median with 20% down ~$2,243 vs ~$2,050 (+$192, ~9%) while hourly earnings rose 3.1% to $38.00; Oct jobs +165,000, unemployment 4.1%; existing-home sales 3.75M pace, lowest since Aug 2010",
-   "sources": [
-    "Inman, Nov 12 2026: https://www.inman.com/2026/11/12/october-jobs-report-pay-gains-mortgage-payments/"
-   ],
-   "angle": "Wages vs payments affordability squeeze; rates angle used Nov 11-12, hold a few days"
-  },
-  {
    "found": "2026-11-12",
    "title": "Redfin generational analysis: older millennials who bought in 2020-21 briefly beat boomers on affordability; millennials buying at 40 spend ~35% of income on housing vs 27% at 30; boomers in early '80s often 60%+; 43% of millennials vs 31% of boomers unlikely to move due to prices",
    "sources": [
@@ -342,6 +326,23 @@
     "HousingWire, Nov 18 2026: https://www.housingwire.com/articles/homeward-cash-offer-48-states/"
    ],
    "angle": "Cash offers as a tool against deal fall-through"
+  },
+  {
+   "found": "2026-11-19",
+   "title": "Seller impersonation fraud: 59% of title firms report attempts in ALTA's latest study vs 28% in its 2024 survey (more than double in two years); 94% use multiple detection tools (avg 5.3); targets expanding from vacant land to vacation homes, rentals and primary residences; absentee, free-and-clear and recently deceased owners at higher risk",
+   "sources": [
+    "HousingWire (ALTA CEO Chris Morton column), Nov 19 2026: https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
+    "NAR: https://www.nar.realtor/news/real-estate-news/6-in-10-title-insurance-firms-experienced-seller-impersonation-fraud-attempts-last-year-study-finds"
+   ],
+   "angle": "Fraud red flags agents should check on listings; practical, no legal advice"
+  },
+  {
+   "found": "2026-11-19",
+   "title": "Fix-and-flip margins tighten in Q3 2026 as prices dip and costs rise (figures not yet fetched; verify, likely ATTOM)",
+   "sources": [
+    "HousingWire, Nov 18 2026: https://www.housingwire.com/articles/fix-and-flip-margins-q3/"
+   ],
+   "angle": "Investor clients; check for Illinois/Chicago flip data"
   }
  ]
 }
