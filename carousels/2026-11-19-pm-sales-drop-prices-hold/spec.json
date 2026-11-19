@@ -1,0 +1,47 @@
+{
+ "source": "Homes.com October 2026 housing report; Freddie Mac PMMS",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Housing market",
+   "headline": ["Sales sink, prices", "*hold their ground*"],
+   "fig": "-11.7%",
+   "fig_caption": "US home sales in October vs. a year earlier",
+   "sub": "Buyers have more homes to choose from, and they are getting choosier."
+  },
+  {
+   "type": "stat",
+   "kicker": "The price check",
+   "big": "$383,598",
+   "label": "national median sale price in October, *down just 0.4%*",
+   "body": "Inventory rose 4.8% from a year earlier. Homes.com's chief economist reads it as demand holding up while buyers become more selective."
+  },
+  {
+   "type": "bars",
+   "kicker": "Who slowed most",
+   "title": "Where sales fell *hardest*",
+   "bars": [["Condos", 15.1], ["Townhomes", 13.5], ["Single-family", 11.2]],
+   "prefix": "-",
+   "unit": "%",
+   "highlight": ["Condos"],
+   "note": "Condo and townhome prices each fell 1.4% from a year ago, while single-family prices slipped *only 0.3%*."
+  },
+  {
+   "type": "points",
+   "kicker": "Among the 40 largest markets",
+   "title": "Local markets *split*",
+   "points": [
+    "San Francisco prices jumped *17.7%* even as sales fell 13%.",
+    "Austin prices fell *9.7%* and Nashville's fell 4.1%.",
+    "Seattle has 22.8% more homes for sale, while Jacksonville has 9.8% fewer."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Price it local, *not national*",
+   "body": "A flat national median hides big swings by market and property type. With the 30-year rate back up to 7.28% and buyers comparing more homes, sharp local comps and move-in-ready condition matter more than ever.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

@@ -224,14 +224,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-12",
-   "title": "Redfin generational analysis: older millennials who bought in 2020-21 briefly beat boomers on affordability; millennials buying at 40 spend ~35% of income on housing vs 27% at 30; boomers in early '80s often 60%+; 43% of millennials vs 31% of boomers unlikely to move due to prices",
-   "sources": [
-    "Real Estate News, Nov 12 2026: https://www.realestatenews.com/2026/11/12/millennial-buyers-had-an-edge-over-boomers-but-it-was-fleeting"
-   ],
-   "angle": "Generational buyer economics; evergreen-ish"
-  },
-  {
    "found": "2026-11-13",
    "title": "ARA forms AI Task Force to push 'licensee-in-the-loop' laws in all 50 states: AI acting for consumers must be supervised by a named licensee (name + license number), licensee reviews every offer/counter, fiduciary duty extends to AI work; bills possible late 2026/Jan 2027; chaired by Dmitriy Kruglyak",
    "sources": [
@@ -343,6 +335,15 @@
     "HousingWire, Nov 18 2026: https://www.housingwire.com/articles/fix-and-flip-margins-q3/"
    ],
    "angle": "Investor clients; check for Illinois/Chicago flip data"
+  },
+  {
+   "found": "2026-11-19",
+   "title": "Freddie Mac 30-yr rises to 7.28% (from 7.11%), ending a four-week decline; 15-yr 6.66%; year ago 6.26%. MND daily 7.45% Nov 19; CME FedWatch overwhelmingly expects a 25 bp December hike; MBA purchase apps -7% YoY, refi -54% YoY (week ending Nov 13)",
+   "sources": [
+    "Freddie Mac via GlobeNewswire, Nov 19 2026: https://www.globenewswire.com/news-release/2026/11/19/3406994/0/en/mortgage-rates-average-7-28.html",
+    "Real Estate News, Nov 19 2026: https://www.realestatenews.com/2026/11/19/a-tough-backdrop-for-mortgage-rates-as-holiday-slowdown-begins"
+   ],
+   "angle": "Rates turn back up into holiday slowdown; overlaps Nov 15 rates post, use only with a fresh hook"
   }
  ]
 }
