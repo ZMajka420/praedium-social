@@ -1,0 +1,89 @@
+{
+ "source": "ATTOM Q3 2026 Mortgage Origination Report",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Mortgage market",
+   "headline": [
+    "Purchase loans sink",
+    "to a *2012 low*"
+   ],
+   "fig": "729,968",
+   "fig_caption": "Home purchase loans in Q3 2026, the fewest for any third quarter since 2012",
+   "sub": "Down 9% from the spring quarter and 12% from a year earlier."
+  },
+  {
+   "type": "bars",
+   "kicker": "The year-over-year pullback",
+   "title": "Q3 2026 vs. Q3 2025, *every lane is down*",
+   "bars": [
+    [
+     "Refinance loans",
+     19
+    ],
+    [
+     "All loans",
+     15
+    ],
+    [
+     "Purchase loans",
+     12
+    ],
+    [
+     "Purchase dollars",
+     10
+    ]
+   ],
+   "prefix": "-",
+   "unit": "%",
+   "highlight": [
+    "Purchase loans"
+   ],
+   "note": "Total lending came to *$498.1 billion*. Freddie Mac's 30-year rate rose from 6.43% in early July to 7.28% by early October."
+  },
+  {
+   "type": "stat",
+   "kicker": "The mix shifts",
+   "big": "56.5%",
+   "label": "of Q3 loans were *purchases*, up from 54.5% a year earlier",
+   "body": "Refinances fell harder, down 16% in a quarter to 561,290, the fewest since Q2 2024. The average purchase loan rose 3% to $411,756."
+  },
+  {
+   "type": "bars",
+   "kicker": "The exceptions",
+   "title": "Big metros where purchase loans *grew*",
+   "bars": [
+    [
+     "Buffalo",
+     61
+    ],
+    [
+     "Memphis",
+     50
+    ],
+    [
+     "Rochester",
+     32
+    ],
+    [
+     "New York",
+     22
+    ],
+    [
+     "Hartford",
+     20
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "note": "Quarter-over-quarter change, metros over 1 million people. Purchase lending fell in *73.6% of metros* analyzed."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Fewer buyers, *each one counts*",
+   "body": "With purchase lending this thin, every pre-approved buyer is worth real follow-up. Stay close to your lender partners, and keep past clients warm for when rates finally ease.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
