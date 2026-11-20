@@ -235,14 +235,6 @@
  "backlog": [
   {
    "found": "2026-11-13",
-   "title": "ARA forms AI Task Force to push 'licensee-in-the-loop' laws in all 50 states: AI acting for consumers must be supervised by a named licensee (name + license number), licensee reviews every offer/counter, fiduciary duty extends to AI work; bills possible late 2026/Jan 2027; chaired by Dmitriy Kruglyak",
-   "sources": [
-    "HousingWire, Nov 12 2026: https://www.housingwire.com/articles/ara-licensee-in-loop-ai-laws/"
-   ],
-   "angle": "What AI-agent rules could mean for licensees; no political opinion"
-  },
-  {
-   "found": "2026-11-13",
    "title": "Cook County tax sale resumes in Dec 2026 with 9,481 eligible properties, fewest since 1994 and first time under 10,000 in 30+ years (vs 14,000+ expected in March); 2,700+ owe under $1,000",
    "sources": [
     "The Real Deal Chicago, Nov 6 2026: https://therealdeal.com/chicago/2026/11/06/cook-county-tax-auction-to-resume/"
@@ -354,6 +346,14 @@
     "Real Estate News, Nov 19 2026: https://www.realestatenews.com/2026/11/19/a-tough-backdrop-for-mortgage-rates-as-holiday-slowdown-begins"
    ],
    "angle": "Rates turn back up into holiday slowdown; overlaps Nov 15 rates post, use only with a fresh hook"
+  },
+  {
+   "found": "2026-11-20",
+   "title": "MBA National Delinquency Survey: mortgage delinquencies rise to 4.42% in Q3 2026 (details not yet fetched; verify against MBA release)",
+   "sources": [
+    "HousingWire, Nov 19 2026: https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/"
+   ],
+   "angle": "Mortgage stress rising; pair with NY Fed backlog item; check Illinois delinquency rate"
   }
  ]
 }

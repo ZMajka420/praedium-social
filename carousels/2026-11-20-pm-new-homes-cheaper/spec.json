@@ -1,0 +1,84 @@
+{
+ "source": "NAHB/Wells Fargo Cost of Housing Index, Q3 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Affordability",
+   "headline": [
+    "New homes now cost",
+    "*less than resale*"
+   ],
+   "fig": "$39,600",
+   "fig_caption": "Resale vs. new median price gap, Q3\u00a02026",
+   "sub": "Builders cut prices while resale held steady."
+  },
+  {
+   "type": "stat",
+   "kicker": "The quarter's move",
+   "big": "-4.2%",
+   "label": "drop in the median new home price in one quarter, to *$393,300*",
+   "body": "The median existing home slipped just 0.5% to $432,900. Builders are leaning hard on discounts: 43% cut prices in October, the most since 2020."
+  },
+  {
+   "type": "bars",
+   "kicker": "The monthly payment test",
+   "title": "Income needed for *the median home*",
+   "bars": [
+    [
+     "New home",
+     33
+    ],
+    [
+     "Existing home",
+     36
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "New home"
+   ],
+   "note": "Based on a *$106,800* median family income, 10% down, with taxes, insurance and PMI. For low-income families (half the median), it's 66% for new and 73% for existing."
+  },
+  {
+   "type": "bars",
+   "kicker": "The Illinois angle",
+   "title": "Least cost-burdened metros, *existing homes*",
+   "bars": [
+    [
+     "Decatur, IL",
+     17
+    ],
+    [
+     "Elmira, NY",
+     18
+    ],
+    [
+     "Peoria, IL",
+     19
+    ],
+    [
+     "Springfield, IL",
+     20
+    ],
+    [
+     "Wichita Falls, TX",
+     20
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Decatur, IL",
+    "Peoria, IL",
+    "Springfield, IL"
+   ],
+   "note": "Three of the five most affordable markets in the 175-metro index are in *Illinois*. San Jose sits at the other extreme at 79%."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Show buyers *new builds*",
+   "body": "For buyers priced out of resale, new construction is now the cheaper median option. Line up builder incentives and price cuts next to resale comps so clients can compare the real monthly cost.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
