@@ -244,14 +244,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-13",
-   "title": "Cook County tax sale resumes in Dec 2026 with 9,481 eligible properties, fewest since 1994 and first time under 10,000 in 30+ years (vs 14,000+ expected in March); 2,700+ owe under $1,000",
-   "sources": [
-    "The Real Deal Chicago, Nov 6 2026: https://therealdeal.com/chicago/2026/11/06/cook-county-tax-auction-to-resume/"
-   ],
-   "angle": "Chicago angle; fewer distressed tax-delinquent homes, pair with foreclosure data after Nov 18"
-  },
-  {
    "found": "2026-11-14",
    "title": "Fifth Circuit appeal over FinCEN's residential real estate anti-money-laundering reporting rule (all-cash/non-financed transfers to entities and trusts); rule's future uncertain",
    "sources": [
@@ -365,6 +357,14 @@
     "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip"
    ],
    "angle": "Overlaps Nov 18 pending-record-low post; use only with a fresh hook. No Chicago figures"
+  },
+  {
+   "found": "2026-11-21",
+   "title": "NAR Professional Standards Committee releases 'AI and the Realtor Code of Ethics: 11 Risks Every Realtor Should Know' (living document) and 'The Code of Ethics is Good Business' with buyer-agent and listing-agent checklists mapping Standards of Practice to each transaction stage; associations asked to add to new-agent orientations",
+   "sources": [
+    "Real Estate News, Nov 20 2026: https://www.realestatenews.com/2026/11/20/new-resources-tie-nars-code-of-ethics-to-ai-use-transactions"
+   ],
+   "angle": "Practical checklists for agents; AI part overlaps Nov 16 AI post, lead with the transaction checklists. Fetch the PDFs for article numbers"
   }
  ]
 }

@@ -1,0 +1,73 @@
+{
+ "source": "Mortgage News Daily; CME FedWatch via Real Estate News",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Mortgage rates",
+   "headline": [
+    "Stock selloff",
+    "*pulls rates down*"
+   ],
+   "fig": "7.33%",
+   "fig_caption": "Average 30-year fixed rate on Nov. 20",
+   "sub": "Down from 7.45% a day earlier, the lowest level since Nov. 10."
+  },
+  {
+   "type": "bars",
+   "kicker": "Friday's daily averages",
+   "title": "Rates by *loan type*",
+   "bars": [
+    [
+     "30-yr fixed",
+     7.33
+    ],
+    [
+     "30-yr VA",
+     6.97
+    ],
+    [
+     "30-yr FHA",
+     6.95
+    ],
+    [
+     "15-yr fixed",
+     6.89
+    ],
+    [
+     "7/6 ARM",
+     6.81
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "30-yr fixed"
+   ],
+   "note": "Every product fell on the day. The 7/6 ARM dropped the most, *down 0.19 points*, while the 30-year fell 0.12."
+  },
+  {
+   "type": "points",
+   "kicker": "The 30-year this fall",
+   "title": "A season of *whiplash*",
+   "points": [
+    "Early October: above 7.6%.",
+    "Early November: down to 7.17%.",
+    "Mid-November: back above 7.5%.",
+    "Nov. 20: *7.33%*, as a Nasdaq drop of more than 5% sent investors into bonds."
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "Still on deck",
+   "big": "91.4%",
+   "label": "odds of a *Fed rate hike* in December",
+   "body": "That is Friday's CME FedWatch reading for a quarter-point increase at the Dec. 8-9 meeting, down from 94% on Thursday. The 10-year Treasury yield slipped below 5% in the selloff."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Watch the *daily swings*",
+   "body": "Rates are moving a tenth of a point or more in a day, and the Fed meets Dec. 8-9. Keep active buyers in close touch with their lenders so quotes and lock timing stay current.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
