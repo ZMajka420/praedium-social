@@ -358,12 +358,13 @@
    "angle": "Rates turn back up into holiday slowdown; overlaps Nov 15 rates post, use only with a fresh hook"
   },
   {
-   "found": "2026-11-20",
-   "title": "MBA National Delinquency Survey: mortgage delinquencies rise to 4.42% in Q3 2026 (details not yet fetched; verify against MBA release)",
+   "found": "2026-11-21",
+   "title": "Redfin weekly (4 wks ending Nov 15 2026): pending sales 276,187, down 15.3% YoY, lowest in Redfin records (since 2021), down YoY in every metro analyzed; median monthly payment $2,723 at 7.11%, lowest in nearly 2 months; median sale price $388,516 (-0.4% YoY, 4th straight weekly decline); months of supply 4.8; price-drop share 20.7%",
    "sources": [
-    "HousingWire, Nov 19 2026: https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/"
+    "Redfin via PR Newswire/Finviz, Nov 19 2026: https://finviz.com/news/425149/monthly-housing-payments-fell-to-lowest-level-in-nearly-2-months-but-rates-are-climbing-again",
+    "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip"
    ],
-   "angle": "Mortgage stress rising; pair with NY Fed backlog item; check Illinois delinquency rate"
+   "angle": "Overlaps Nov 18 pending-record-low post; use only with a fresh hook. No Chicago figures"
   }
  ]
 }

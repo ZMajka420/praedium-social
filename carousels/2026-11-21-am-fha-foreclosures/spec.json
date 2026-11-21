@@ -1,0 +1,54 @@
+{
+ "source": "MBA National Delinquency Survey, Q3 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Mortgage stress",
+   "headline": [
+    "FHA foreclosures",
+    "*highest since 2017*"
+   ],
+   "fig": "1.89%",
+   "fig_caption": "Share of FHA loans in foreclosure, Q3 2026",
+   "sub": "Overall mortgage delinquency rose to 4.42%."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where the strain is",
+   "title": "Delinquency by *loan type*",
+   "bars": [
+    [
+     "FHA",
+     11.74
+    ],
+    [
+     "VA",
+     5.0
+    ],
+    [
+     "Conventional",
+     2.73
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "FHA"
+   ],
+   "note": "Versus a year ago: FHA is up *0.96 points*, VA up 0.50 and conventional up just 0.11. VA foreclosures (1.06%) are the highest since late 2016."
+  },
+  {
+   "type": "stat",
+   "kicker": "The pipeline",
+   "big": "2.12%",
+   "label": "of loans are *seriously delinquent*",
+   "body": "That means 90+ days late or in foreclosure. The share is up 0.51 points in a year and has climbed five straight quarters. Overall delinquency: 4.42%, up from 3.99%."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Strain, *not a crisis*",
+   "body": "Delinquencies are near pre-pandemic levels and conventional loans are holding up. The pressure is in FHA and VA loans, so expect more owners who need a sale plan before foreclosure.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
