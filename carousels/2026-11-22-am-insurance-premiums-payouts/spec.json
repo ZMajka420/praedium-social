@@ -1,0 +1,69 @@
+{
+ "source": "Public Citizen/AFR report (NAIC data) via Inman",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Home insurance",
+   "headline": [
+    "Premiums up 59%,",
+    "payouts *just 28%*"
+   ],
+   "fig": "$181.2B",
+   "fig_caption": "Homeowners insurance premiums in 2025, up from $113.9B in 2021",
+   "sub": "A new consumer-group analysis of five years of NAIC data finds claims growth lagging far behind."
+  },
+  {
+   "type": "stat",
+   "kicker": "The loss ratio",
+   "big": "55¢",
+   "label": "paid in claims per *premium dollar*",
+   "body": "That was the 2025 figure, down from about 69 cents in 2021. The report puts the industry loss ratio at 68.8% in 2021 and 55.1% in 2025."
+  },
+  {
+   "type": "bars",
+   "kicker": "Where the gap is widest",
+   "title": "Change from *2021 to 2025*",
+   "bars": [
+    [
+     "TX premiums",
+     78
+    ],
+    [
+     "FL premiums",
+     64
+    ],
+    [
+     "U.S. premiums",
+     59
+    ],
+    [
+     "U.S. payouts",
+     28
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "U.S. payouts"
+   ],
+   "note": "Meanwhile, payouts *fell 23%* in Texas and 67% in Florida."
+  },
+  {
+   "type": "points",
+   "kicker": "On the claims side",
+   "title": "What owners *run into*",
+   "points": [
+    "About *30%* of claims were closed with no payment, 2021 to 2025.",
+    "More than *22%* of claims took over 60 days to pay.",
+    "Premiums rose at least 50% in five years in 19 of 30 metros (Zillow and Thumbtack data)."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Quote insurance *first*",
+   "body": "In Houston, Phoenix, Denver and Nashville, owners now pay more each year for insurance than for property taxes. Get buyers real quotes early so the payment holds up at closing.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

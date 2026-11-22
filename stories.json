@@ -244,30 +244,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-14",
-   "title": "Fifth Circuit appeal over FinCEN's residential real estate anti-money-laundering reporting rule (all-cash/non-financed transfers to entities and trusts); rule's future uncertain",
-   "sources": [
-    "HousingWire, Nov 13 2026: https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/"
-   ],
-   "angle": "What changes for agents/title on cash deals; not yet fetched, verify details. No legal advice"
-  },
-  {
-   "found": "2026-11-14",
-   "title": "NY Fed Q3 2026 household debt: ~5.0% of balances in some stage of delinquency (+0.3 pp), 90+ day share 3.4%; mortgage serious delinquency 1.1% (+0.1 pp), mortgage transition into serious delinquency 1.6% (from 1.5%); auto 5.7%, student loans 10.9%",
-   "sources": [
-    "NAHB Eye on Housing, Nov 11 2026: https://eyeonhousing.org/2026/11/household-debt-delinquencies-rise-as-mortgage-performance-weakens/"
-   ],
-   "angle": "Mortgage stress creeping up; pair with ATTOM October foreclosure report when out, verify against NY Fed original"
-  },
-  {
-   "found": "2026-11-16",
-   "title": "Financial Health Network report 'Rising Costs, Shrinking Coverage' (Nov 10 2026): 54% of households at least somewhat confident insurance would cover them, lowest since 2018; home insurance share of income 1.2% (2000) to 2.1% (2022); non-renewals rose in 35 states 2018-2023; insurer-of-last-resort residential policies +77% 2019-2024; CA FAIR Plan +152% since Sept 2022; Chicago Fed research links $1,000 premium increase to higher mortgage denials",
-   "sources": [
-    "GlobeNewswire, Nov 10 2026: https://www.globenewswire.com/news-release/2026/11/10/3399622/0/en/new-financial-health-network-report-finds-rising-home-insurance-costs-put-financial-stability-at-risk-for-households-across-the-u-s.html"
-   ],
-   "angle": "Insurance costs as a deal risk; no Illinois figures"
-  },
-  {
    "found": "2026-11-16",
    "title": "HousingWire weekly tracker (Nov 14 2026): inventory 895,988 (down 6,752 WoW, +7.11% YoY) as seasonal decline sets in; new listings 53,162 vs 56,569 a year ago; pending 50,623 vs 60,722; price-cut share ~43% vs 42%",
    "sources": [
@@ -365,6 +341,30 @@
     "Real Estate News, Nov 20 2026: https://www.realestatenews.com/2026/11/20/new-resources-tie-nars-code-of-ethics-to-ai-use-transactions"
    ],
    "angle": "Practical checklists for agents; AI part overlaps Nov 16 AI post, lead with the transaction checklists. Fetch the PDFs for article numbers"
+  },
+  {
+   "found": "2026-11-22",
+   "title": "Senate passes BAAJA housing permitting bill 62-33 (narrows NEPA triggers, caps delays, limits duplicative reviews for federally backed housing); House/next steps not yet verified",
+   "sources": [
+    "HousingWire, Nov 20 2026: https://www.housingwire.com/articles/senate-passes-baaja-permitting-bill/"
+   ],
+   "angle": "Supply-side policy explainer, strictly factual, no political commentary; fetch details first"
+  },
+  {
+   "found": "2026-11-22",
+   "title": "Buyer sues Howard Hanna over a $395 transaction/admin fee she says took more than half her closing funds",
+   "sources": [
+    "Real Estate News, Nov 20 2026: https://www.realestatenews.com/2026/11/20/buyer-sues-howard-hanna-over-cash-grab-transaction-fee"
+   ],
+   "angle": "Brokerage fee disclosure risk; no legal advice, verify details"
+  },
+  {
+   "found": "2026-11-22",
+   "title": "'The housing cliff is here': mortgage lock volume down 51% YoY in October; MBA applications down 42%",
+   "sources": [
+    "HousingWire, Nov 19 2026: https://www.housingwire.com/articles/housing-cliff-mortgage-locks/"
+   ],
+   "angle": "Overlaps purchase-loan and pending-low posts; use only with fresh hook, verify figures"
   }
  ]
 }
