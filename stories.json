@@ -245,14 +245,6 @@
  "backlog": [
   {
    "found": "2026-11-16",
-   "title": "HousingWire weekly tracker (Nov 14 2026): inventory 895,988 (down 6,752 WoW, +7.11% YoY) as seasonal decline sets in; new listings 53,162 vs 56,569 a year ago; pending 50,623 vs 60,722; price-cut share ~43% vs 42%",
-   "sources": [
-    "HousingWire, Nov 14 2026: https://www.housingwire.com/articles/inventory-seasonal-decline-rates/"
-   ],
-   "angle": "Seasonal inventory turn; refresh with newest weekly before use; overlaps pending-slump and rates posts"
-  },
-  {
-   "found": "2026-11-16",
    "title": "Connecticut becomes 8th state offering first responders down payment and closing cost help (figures need verification)",
    "sources": [
     "Inman, Nov 13 2026: https://www.inman.com/2026/11/13/first-responder-home-aid/"
@@ -365,6 +357,14 @@
     "HousingWire, Nov 19 2026: https://www.housingwire.com/articles/housing-cliff-mortgage-locks/"
    ],
    "angle": "Overlaps purchase-loan and pending-low posts; use only with fresh hook, verify figures"
+  },
+  {
+   "found": "2026-11-22",
+   "title": "Builders squeezed: Lennar Q3 gross margin on home sales 15.8% (from 17.5%), CEO says almost 50% of visitors can't immediately qualify; D.R. Horton fiscal Q4 net orders -7%, cancellations 23% vs 20%",
+   "sources": [
+    "24/7 Wall St., Nov 21 2026: https://247wallst.com/investing/2026/11/21/u-s-home-sales-just-hit-their-lowest-level-in-25-years-is-the-housing-market-breaking/"
+   ],
+   "angle": "New-construction incentives as a buyer tool; verify against company filings; overlaps Nov 20 new-homes-cheaper post"
   }
  ]
 }

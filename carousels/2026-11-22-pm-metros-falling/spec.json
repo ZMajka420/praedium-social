@@ -1,0 +1,64 @@
+{
+ "source": "ResiClub analysis of Zillow Home Value Index, Nov. 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Home prices",
+   "headline": [
+    "Falling prices",
+    "*spread to 76 metros*"
+   ],
+   "fig": "76",
+   "fig_caption": "Of the 300 largest U.S. markets with prices down vs. a year ago, October 2026",
+   "sub": "That's one in four markets, up from 54 just two months earlier."
+  },
+  {
+   "type": "bars",
+   "kicker": "Three months in a row",
+   "title": "Markets with *falling prices*",
+   "bars": [
+    [
+     "August",
+     54
+    ],
+    [
+     "September",
+     66
+    ],
+    [
+     "October",
+     76
+    ]
+   ],
+   "unit": "",
+   "highlight": [
+    "October"
+   ],
+   "note": "Counts are year-over-year declines among the 300 largest markets. National prices are still up *0.7%*, down from 1.3% in August."
+  },
+  {
+   "type": "stat",
+   "kicker": "Big metros feel it most",
+   "big": "21 of 50",
+   "label": "largest metros now show *falling prices*",
+   "body": "That's 42% of the 50 biggest markets. The Sun Belt and Mountain West show the most softness, with mortgage rates back above 7%."
+  },
+  {
+   "type": "points",
+   "kicker": "A split market",
+   "title": "Two very different *recoveries*",
+   "points": [
+    "Hartford, CT: prices are *28.0% above* the metro's 2022 peak.",
+    "Austin, TX: prices are *28.8% below* the metro's 2022 peak.",
+    "Parts of the Northeast and Midwest are still posting nominal gains, while Texas, Florida, Washington and Colorado see corrections or flat prices."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "National headlines *aren't your comps*",
+   "body": "One in four markets is slipping while others keep climbing. Show clients what's happening in their metro and ZIP code, price listings to the latest local sales, and set expectations before the spring market.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
