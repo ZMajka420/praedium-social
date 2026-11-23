@@ -1,0 +1,52 @@
+{
+ "source": "Fannie/Freddie UAD 3.6 via Inman, NAR and NAMB",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Appraisals",
+   "headline": [
+    "The appraisal form",
+    "*just changed*"
+   ],
+   "fig": "3.6",
+   "fig_caption": "The new UAD appraisal format, required since *Nov. 2* for Fannie and Freddie loans",
+   "sub": "A single, dynamic report replaces the legacy forms, with far more property detail."
+  },
+  {
+   "type": "stat",
+   "kicker": "The transition",
+   "big": "May 20",
+   "label": "2027: the new format is *mandatory for every lender*",
+   "body": "Lenders granted an exception can submit old-format reports through May 19, 2027. The old format retires June 28, 2027."
+  },
+  {
+   "type": "points",
+   "kicker": "What appraisers now record",
+   "title": "More detail, *less guesswork*",
+   "points": [
+    "Separate *inside and outside* ratings for condition and quality.",
+    "What was updated, and *when the work was done*.",
+    "The shape of major parts: roof, HVAC, windows, water heater.",
+    "Quality judged on design, materials and workmanship."
+   ]
+  },
+  {
+   "type": "points",
+   "kicker": "Your listing checklist",
+   "title": "Get *appraisal-ready*",
+   "points": [
+    "Ask the lender which report format *it is ordering*.",
+    "Swap \"beautifully updated\" for *dated specifics* in the MLS.",
+    "Keep invoices, permits and warranties *on file*.",
+    "Plan for a *longer appraisal* and review timeline."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Specifics *matter more now*",
+   "body": "The new report rewards specifics. Agents who capture what changed, when, and with what paperwork give appraisers facts to work with, and give sellers fewer surprises.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
