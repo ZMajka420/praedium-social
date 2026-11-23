@@ -1,0 +1,74 @@
+{
+ "source": "ALTA 2026 Seller Impersonation Fraud Study via HousingWire and NAR",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Listing fraud",
+   "headline": [
+    "Fake sellers are",
+    "*on the rise*"
+   ],
+   "fig": "59%",
+   "fig_caption": "Of title firms saw at least one seller impersonation attempt in 2025",
+   "sub": "More than double the 28% in ALTA's 2024 survey."
+  },
+  {
+   "type": "bars",
+   "kicker": "Past year vs. past month",
+   "title": "Firms seeing *an attempt*",
+   "bars": [
+    [
+     "Year: 2024",
+     28
+    ],
+    [
+     "Year: 2026",
+     59
+    ],
+    [
+     "Month: 2024",
+     19
+    ],
+    [
+     "Month: 2026",
+     45
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Year: 2026",
+    "Month: 2026"
+   ],
+   "note": "One in four firms that saw an attempt also *paid a claim*. Half of those disclosing costs averaged more than $100,000."
+  },
+  {
+   "type": "points",
+   "kicker": "Who gets targeted",
+   "title": "Who scammers *target*",
+   "points": [
+    "Vacant land: *82%* of firms call it a common target, still No. 1.",
+    "Absentee owners *72%*, free-and-clear homes *68%*.",
+    "Recently deceased owners: *55%*.",
+    "Vacation homes, rentals and primary residences all rose sharply since 2024."
+   ]
+  },
+  {
+   "type": "points",
+   "kicker": "Red flags",
+   "title": "Signs of a *fake seller*",
+   "points": [
+    "The seller avoids meetings and *won't get on a call*.",
+    "They push for a mail-away signing or *pick their own notary*.",
+    "*87%* of firms see spoofed contact info.",
+    "*58%* say image or voice deepfakes are at least somewhat common."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Verify sellers *before listing*",
+   "body": "Confirm identity early, reach owners through contact details you find on your own, and mail a letter to the property address. Take extra care with vacant land, absentee owners and remote-only deals.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

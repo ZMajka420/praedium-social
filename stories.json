@@ -293,15 +293,6 @@
   },
   {
    "found": "2026-11-19",
-   "title": "Seller impersonation fraud: 59% of title firms report attempts in ALTA's latest study vs 28% in its 2024 survey (more than double in two years); 94% use multiple detection tools (avg 5.3); targets expanding from vacant land to vacation homes, rentals and primary residences; absentee, free-and-clear and recently deceased owners at higher risk",
-   "sources": [
-    "HousingWire (ALTA CEO Chris Morton column), Nov 19 2026: https://www.housingwire.com/articles/seller-impersonation-fraud-title/",
-    "NAR: https://www.nar.realtor/news/real-estate-news/6-in-10-title-insurance-firms-experienced-seller-impersonation-fraud-attempts-last-year-study-finds"
-   ],
-   "angle": "Fraud red flags agents should check on listings; practical, no legal advice"
-  },
-  {
-   "found": "2026-11-19",
    "title": "Fix-and-flip margins tighten in Q3 2026 as prices dip and costs rise (figures not yet fetched; verify, likely ATTOM)",
    "sources": [
     "HousingWire, Nov 18 2026: https://www.housingwire.com/articles/fix-and-flip-margins-q3/"
@@ -365,6 +356,14 @@
     "24/7 Wall St., Nov 21 2026: https://247wallst.com/investing/2026/11/21/u-s-home-sales-just-hit-their-lowest-level-in-25-years-is-the-housing-market-breaking/"
    ],
    "angle": "New-construction incentives as a buyer tool; verify against company filings; overlaps Nov 20 new-homes-cheaper post"
+  },
+  {
+   "found": "2026-11-23",
+   "title": "Lock-in effect likely to keep HELOCs and second-lien activity elevated through 2027 (figures not yet fetched; verify)",
+   "sources": [
+    "HousingWire, Nov 20 2026: https://www.housingwire.com/articles/lock-in-effect-second-liens/"
+   ],
+   "angle": "Rate-locked clients tapping equity instead of moving; pair with ICE/Nomura second-lien data"
   }
  ]
 }
