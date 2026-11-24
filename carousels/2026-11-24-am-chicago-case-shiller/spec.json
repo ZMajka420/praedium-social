@@ -1,0 +1,70 @@
+{
+ "source": "S&P Cotality Case-Shiller Index, Sept. 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Home prices",
+   "headline": [
+    "Chicago leads",
+    "*six months running*"
+   ],
+   "fig": "6.9%",
+   "fig_caption": "Chicago's annual price gain in September, *No. 1* of the 20 major metros tracked",
+   "sub": "Nationally, prices rose just 2.1% from a year ago."
+  },
+  {
+   "type": "bars",
+   "kicker": "Annual price change",
+   "title": "Where prices *rose most*",
+   "bars": [
+    [
+     "Chicago",
+     6.9
+    ],
+    [
+     "New York",
+     5.8
+    ],
+    [
+     "Miami",
+     4.6
+    ],
+    [
+     "20-City index",
+     2.6
+    ],
+    [
+     "U.S. national",
+     2.1
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "Chicago"
+   ],
+   "note": "Miami climbed into the *top three* after two months in fourth place."
+  },
+  {
+   "type": "stat",
+   "kicker": "The other side",
+   "big": "5",
+   "label": "of 19 reported metros saw *prices fall* from a year ago",
+   "body": "Seattle dropped 1.9%, the biggest decline for the fourth month in a row. Denver, Dallas, Las Vegas and Tampa also slipped."
+  },
+  {
+   "type": "stat",
+   "kicker": "The real picture",
+   "big": "3.7%",
+   "label": "September inflation, *outpacing* the 2.1% national price gain",
+   "body": "After inflation, U.S. home prices have now fallen for 16 straight months. Before seasonal adjustment, the national index slipped 0.3% from August."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Lead with *local numbers*",
+   "body": "National prices are barely rising, but metros are moving in very different directions. Chicago sellers are still seeing solid gains. Bring your market's own data to every pricing conversation.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
