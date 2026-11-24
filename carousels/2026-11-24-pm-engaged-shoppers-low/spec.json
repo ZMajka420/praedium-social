@@ -1,0 +1,70 @@
+{
+ "source": "Zillow Q3 2026 shopper engagement report",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Buyer demand",
+   "headline": [
+    "Serious shoppers",
+    "hit a *new low*"
+   ],
+   "fig": "3.5",
+   "fig_caption": "Engaged shoppers per Zillow listing in Q3 2026, *down 4.8%* from a year ago",
+   "sub": "The lowest level since Zillow began tracking the metric in 2023."
+  },
+  {
+   "type": "bars",
+   "kicker": "Year-over-year change",
+   "title": "Where it *fell most*",
+   "bars": [
+    [
+     "Seattle",
+     17.1
+    ],
+    [
+     "Washington, DC",
+     15.5
+    ],
+    [
+     "Louisville",
+     14.3
+    ],
+    [
+     "Chicago",
+     8.3
+    ],
+    [
+     "U.S. overall",
+     4.8
+    ]
+   ],
+   "prefix": "-",
+   "unit": "%",
+   "highlight": [
+    "Chicago"
+   ],
+   "note": "Engagement fell in *44 of the 50* largest metros. Gains were rare, led by Florida: Jacksonville rose 12.2% and Miami 8.7%."
+  },
+  {
+   "type": "stat",
+   "kicker": "The rate shock",
+   "big": "7.28%",
+   "label": "average 30-year rate on Oct. 1, up from *6.43%* on July 2",
+   "body": "On a $400,000 home with 20% down, that lifted the monthly payment from $2,008 to $2,189."
+  },
+  {
+   "type": "stat",
+   "kicker": "A K-shaped market",
+   "big": "2.9",
+   "label": "engaged shoppers per *starter home*, down 8.2% in a year",
+   "body": "Luxury listings, the top 5% by value, drew 6.4 shoppers each, flat from last year. Higher-income buyers are feeling rates the least."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Buyers have *leverage*",
+   "body": "Each listing now faces fewer serious buyers. Chicago still draws 4.1 per listing, above the national 3.5. Zillow says sales could rebound quickly if rates fall, so keep your saved-search buyers warm now.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
