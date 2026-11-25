@@ -255,22 +255,6 @@
  "backlog": [
   {
    "found": "2026-11-17",
-   "title": "Lenders increasingly pull the new credit score model (VantageScore 4.0) but few use it for loan pricing (figures not yet fetched; verify)",
-   "sources": [
-    "HousingWire, Nov 16 2026: https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/"
-   ],
-   "angle": "What the credit score switch means for buyer pre-approvals"
-  },
-  {
-   "found": "2026-11-17",
-   "title": "Activist hedge fund Land & Buildings pressures Invitation Homes to speed up single-family home sales (details not yet fetched; verify)",
-   "sources": [
-    "HousingWire, Nov 16 2026: https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/"
-   ],
-   "angle": "Institutional SFR owners selling could add resale inventory"
-  },
-  {
-   "found": "2026-11-17",
    "title": "Redfin weekly: monthly mortgage payments fall to a six-week low as median sale price slips 0.9% YoY, fourth straight weekly decline (figures not yet fetched; verify)",
    "sources": [
     "Redfin via Finviz, Nov 2026: https://finviz.com/news/421619/redfin-reports-monthly-mortgage-payments-fall-to-lowest-level-in-6-weeks-as-home-prices-keep-dipping"
@@ -374,6 +358,22 @@
     "Real Estate News, Nov 23 2026: https://www.realestatenews.com/2026/11/23/affordability-act-advances-ny-private-listings-bill-becomes-law"
    ],
    "angle": "Private listing rules spreading state by state; check Illinois status. Effective date not in article, verify"
+  },
+  {
+   "found": "2026-11-25",
+   "title": "Buyer demand hit a 3-year low in Q3 as rates jumped (figures not yet fetched; verify)",
+   "sources": [
+    "Real Estate News, Nov 24 2026: https://www.realestatenews.com/2026/11/24/buyer-demand-hit-3-year-low-in-q3-as-rates-jumped"
+   ],
+   "angle": "Overlaps Nov 24 PM engaged-shoppers post; use only with a fresh hook or metro data"
+  },
+  {
+   "found": "2026-11-25",
+   "title": "MLSs push to consolidate Compass antitrust cases, citing 'unnecessary costs' (details not yet fetched; verify)",
+   "sources": [
+    "Real Estate News, Nov 24 2026: https://www.realestatenews.com/2026/11/24/mlss-slam-unnecessary-costs-in-bid-to-merge-compass-cases"
+   ],
+   "angle": "Update to Compass vs. MLSs saga; strictly factual, no legal advice"
   }
  ]
 }

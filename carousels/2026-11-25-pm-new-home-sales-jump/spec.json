@@ -1,0 +1,54 @@
+{
+ "source": "Census Bureau Oct. 2026 new home sales via Inman, Real Estate News and Calculated Risk",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "New construction",
+   "headline": [
+    "New home sales",
+    "*jump 14.2%*"
+   ],
+   "fig": "701K",
+   "fig_caption": "October's annualized sales pace, the *fastest this year*",
+   "sub": "Up 7.5% from a year ago and well above forecasts. But there's a catch."
+  },
+  {
+   "type": "bars",
+   "kicker": "The catch",
+   "title": "Sales pace, *annualized*",
+   "bars": [
+    [
+     "Oct. 2025",
+     652
+    ],
+    [
+     "Sept. revised",
+     614
+    ],
+    [
+     "Oct. 2026",
+     701
+    ]
+   ],
+   "unit": "K",
+   "highlight": [
+    "Oct. 2026"
+   ],
+   "note": "September was revised down from 676K, which inflates the monthly jump. Year to date, sales are still *3% behind 2025*, and down 1.8% in the Midwest."
+  },
+  {
+   "type": "stat",
+   "kicker": "Where builders are selling",
+   "big": "1 in 4",
+   "label": "new homes sold in October went for *under $300,000*",
+   "body": "A share not seen since 2021. The median new home price fell 3.2% from a year ago to $391,300, about $25,000 below the median existing home."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Builders are *making deals*",
+   "body": "Nearly half of builders are cutting prices and about two-thirds are offering incentives. With supply at 8 months, the lowest this year, new construction belongs in every buyer search.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
