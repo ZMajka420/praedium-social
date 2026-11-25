@@ -1,0 +1,58 @@
+{
+ "source": "Real REMAX Group October 2026 Agent Survey",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Agent survey",
+   "headline": [
+    "Buyers hold the",
+    "*most leverage yet*"
+   ],
+   "fig": "64%",
+   "fig_caption": "of agents say their market favors buyers, up from *55%*",
+   "sub": "A nine-point jump in one month, and the highest reading since the survey began in 2024."
+  },
+  {
+   "type": "stat",
+   "kicker": "Deals falling apart",
+   "big": "48%",
+   "label": "of agents say cancellations are running *above historical norms*",
+   "body": "37% call them somewhat higher and 11% significantly higher. And 47% say deals fall through more often than they did six months ago."
+  },
+  {
+   "type": "bars",
+   "kicker": "Why contracts fail",
+   "title": "Most common reasons deals *fall through*",
+   "bars": [
+    [
+     "Inspection or condition",
+     29
+    ],
+    [
+     "Financing or affordability",
+     28
+    ],
+    [
+     "Buyer second thoughts",
+     20
+    ],
+    [
+     "Appraisal or valuation",
+     3
+    ]
+   ],
+   "unit": "%",
+   "highlight": [
+    "Inspection or condition"
+   ],
+   "note": "When a deal dies, *46%* of agents say the home usually returns at the same price. 31% say it comes back with a cut."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Protect the deal *early*",
+   "body": "Inspections and financing now sink the most contracts. Pre-listing inspections, fully vetted buyers and realistic pricing keep more deals alive. Agent optimism also rose to 53.0 from 45.8.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}
