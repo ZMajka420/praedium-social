@@ -1,0 +1,62 @@
+{
+ "source": "Courted recruiting report via Real Estate News and Inman",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Brokerage industry",
+   "headline": [
+    "Agents are",
+    "*staying put*"
+   ],
+   "fig": "-57%",
+   "fig_caption": "Net recruiting gains at the top 100 brokerage brands, Jan.–Sept. 2026 vs. 2025",
+   "sub": "Measured by the sales volume of agents who moved, not headcount."
+  },
+  {
+   "type": "bars",
+   "kicker": "Top 100 brokerage brands",
+   "title": "Net gains, *first 9 months*",
+   "bars": [
+    [
+     "2025",
+     56.6
+    ],
+    [
+     "2026",
+     24.3
+    ]
+   ],
+   "prefix": "$",
+   "unit": "B",
+   "highlight": [
+    "2026"
+   ],
+   "note": "Q3 alone fell from $17 billion to *$2.2 billion*, down 87%. Only 68 of the 100 brands grew on net, versus 81 a year earlier."
+  },
+  {
+   "type": "stat",
+   "kicker": "The flip side",
+   "big": "4.7%",
+   "label": "median share of volume a brand lost to *departing agents*",
+   "body": "Down from 6.3% a year ago. Fewer agents are leaving, and 73 of 95 brands tracked both years lost a smaller share to departures."
+  },
+  {
+   "type": "points",
+   "kicker": "Inside the numbers",
+   "title": "Recruiting isn't *the whole story*",
+   "points": [
+    "Keller Williams recruited the most volume: *$26.5B*.",
+    "Real Broker recruited $15.2B and kept *$6.4B* net.",
+    "The top recruiters also lost 10% of volume to departures, 2.8x the lightest.",
+    "Mid-sized and regional brands grew fastest."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Your volume is *your leverage*",
+   "body": "Brokerages are fighting to keep producers, not just sign new ones. Whether you stay or shop around, know your numbers and ask what support, tools and splits your volume earns you.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

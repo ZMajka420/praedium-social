@@ -255,14 +255,6 @@
  "backlog": [
   {
    "found": "2026-11-19",
-   "title": "Fix-and-flip margins tighten in Q3 2026 as prices dip and costs rise (figures not yet fetched; verify, likely ATTOM)",
-   "sources": [
-    "HousingWire, Nov 18 2026: https://www.housingwire.com/articles/fix-and-flip-margins-q3/"
-   ],
-   "angle": "Investor clients; check for Illinois/Chicago flip data"
-  },
-  {
-   "found": "2026-11-19",
    "title": "Freddie Mac 30-yr rises to 7.28% (from 7.11%), ending a four-week decline; 15-yr 6.66%; year ago 6.26%. MND daily 7.45% Nov 19; CME FedWatch overwhelmingly expects a 25 bp December hike; MBA purchase apps -7% YoY, refi -54% YoY (week ending Nov 13)",
    "sources": [
     "Freddie Mac via GlobeNewswire, Nov 19 2026: https://www.globenewswire.com/news-release/2026/11/19/3406994/0/en/mortgage-rates-average-7-28.html",
@@ -329,14 +321,6 @@
   },
   {
    "found": "2026-11-24",
-   "title": "Courted report: top 100 brokerage brands' net recruiting gains fell 57% YTD ($56.6B to $24.3B); Q3 down 87% ($17B to $2.2B); 68 of 100 brands had net growth vs 81; KW recruited $26.5B, Real netted $6.4B; median attrition 6.3% to 4.7%",
-   "sources": [
-    "Real Estate News, Nov 23 2026: https://www.realestatenews.com/2026/11/23/brokerage-recruiting-gains-by-sales-volume-cooled-in-2026-report"
-   ],
-   "angle": "Agents staying put; retention beats recruiting for brokers"
-  },
-  {
-   "found": "2026-11-24",
    "title": "NY Gov. Hochul signed S10274 (Nov 20): listings must be publicly marketed unless seller gives informed written direction after a standardized state disclosure; NY joins WA, CT, WI. Also FHFA condo reserve rule (10% to 15%) effective Jan 4 2027, groups seek delay",
    "sources": [
     "Real Estate News, Nov 23 2026: https://www.realestatenews.com/2026/11/23/affordability-act-advances-ny-private-listings-bill-becomes-law"
@@ -374,6 +358,23 @@
     "HousingWire, Nov 25 2026: https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/"
    ],
    "angle": "Practical deal-protection checklist; pairs with deal-cancellation trend"
+  },
+  {
+   "found": "2026-11-26",
+   "title": "Logan Mohtashami: 10-year yield near 4.82%; a 4.85%-or-lower 10-year points to sub-7% mortgage rates for the holidays; rates peaked at 7.61% in early October; MBA applications rose 6.1% even as 30-yr hit 7.38% (week ending Nov 20)",
+   "sources": [
+    "HousingWire, Nov 25 2026: https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/",
+    "HousingWire, Nov 25 2026: https://www.housingwire.com/articles/mortgage-applications-rise-61/"
+   ],
+   "angle": "Rate watch; overlaps recent rate posts, use only if rates break below 7%"
+  },
+  {
+   "found": "2026-11-26",
+   "title": "CoStar photographers say quotas rose; some want to unionize with IBEW (figures not yet fetched; verify)",
+   "sources": [
+    "HousingWire, Nov 25 2026: https://www.housingwire.com/articles/costar-photographers-ibew-union/"
+   ],
+   "angle": "Listing photo/media vendors; Homes.com"
   }
  ]
 }
