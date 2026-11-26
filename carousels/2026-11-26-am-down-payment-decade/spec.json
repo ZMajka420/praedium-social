@@ -1,0 +1,48 @@
+{
+ "source": "Realtor.com analysis, Nov. 24, 2026; Freddie Mac PMMS",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Affordability",
+   "headline": [
+    "Saving for a home",
+    "now takes *a decade*"
+   ],
+   "fig": "10.5 years",
+   "fig_caption": "To save a 10% down payment on a median-priced home",
+   "sub": "Back in the 1980s, it took just over three years."
+  },
+  {
+   "type": "points",
+   "kicker": "1980s vs. today",
+   "title": "Why the math *got harder*",
+   "points": [
+    "Mortgage rates: about 14% then, *around 7%* now.",
+    "Home prices: about 3x household income then, closer to *5x* now.",
+    "Savings rate: near 10% then, about *5%* now.",
+    "Lower rates today don't offset bigger prices and thinner savings."
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "The income gap",
+   "big": "$49,000",
+   "label": "more *yearly income* the typical household needs to buy",
+   "body": "Realtor.com puts the typical household's lost home purchasing power at about $150,000."
+  },
+  {
+   "type": "stat",
+   "kicker": "Rates this week",
+   "big": "7.21%",
+   "label": "average *30-year fixed* rate ahead of Thanksgiving",
+   "body": "Down from 7.28% last week, per Freddie Mac. A year ago the average was 6.23%."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Answer the *dinner question*",
+   "body": "Many renters will hear 'why haven't you bought yet?' this week. Meet them with a realistic timeline, a lender intro and local numbers, not pressure. Those talks can turn into 2027 clients.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

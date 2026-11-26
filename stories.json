@@ -254,22 +254,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-17",
-   "title": "Redfin weekly: monthly mortgage payments fall to a six-week low as median sale price slips 0.9% YoY, fourth straight weekly decline (figures not yet fetched; verify)",
-   "sources": [
-    "Redfin via Finviz, Nov 2026: https://finviz.com/news/421619/redfin-reports-monthly-mortgage-payments-fall-to-lowest-level-in-6-weeks-as-home-prices-keep-dipping"
-   ],
-   "angle": "Small affordability relief for buyers; overlaps Nov 11 prices-dip post, use only with fresh weekly figures"
-  },
-  {
-   "found": "2026-11-18",
-   "title": "Homeward expands agent-only cash-offer product from 13 states to all 48 contiguous states; sellers can close in as little as 14 days; Buy Before You Sell in 16 states (not IL), most states by Q1 2027; no pricing disclosed",
-   "sources": [
-    "HousingWire, Nov 18 2026: https://www.housingwire.com/articles/homeward-cash-offer-48-states/"
-   ],
-   "angle": "Cash offers as a tool against deal fall-through"
-  },
-  {
    "found": "2026-11-19",
    "title": "Fix-and-flip margins tighten in Q3 2026 as prices dip and costs rise (figures not yet fetched; verify, likely ATTOM)",
    "sources": [
@@ -374,6 +358,22 @@
     "Real Estate News, Nov 24 2026: https://www.realestatenews.com/2026/11/24/mlss-slam-unnecessary-costs-in-bid-to-merge-compass-cases"
    ],
    "angle": "Update to Compass vs. MLSs saga; strictly factual, no legal advice"
+  },
+  {
+   "found": "2026-11-26",
+   "title": "Pennsylvania AG settlement with Conquest shows where mortgage joint ventures can run into RESPA trouble (details not yet fetched; verify)",
+   "sources": [
+    "HousingWire, Nov 25 2026: https://www.housingwire.com/articles/pa-ag-respa-settlement-conquest/"
+   ],
+   "angle": "Affiliated business / JV compliance for brokerages; strictly factual, no legal advice"
+  },
+  {
+   "found": "2026-11-26",
+   "title": "How agents handle proof of funds and disclosures (best practices; details not yet fetched; verify)",
+   "sources": [
+    "HousingWire, Nov 25 2026: https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/"
+   ],
+   "angle": "Practical deal-protection checklist; pairs with deal-cancellation trend"
   }
  ]
 }
