@@ -1,0 +1,41 @@
+{
+ "source": "NY Senate (A10679-B / S10274); RISMedia; Brick Underground",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Listing rules",
+   "headline": [
+    "New York reins in",
+    "*private listings*"
+   ],
+   "fig": "60-0",
+   "fig_caption": "NY Senate vote, June 2026",
+   "sub": "Gov. Hochul signed the Fair and Transparent Real Estate Listings Act on Nov. 20."
+  },
+  {
+   "type": "points",
+   "kicker": "What the law requires",
+   "title": "Public by *default*",
+   "points": [
+    "Listings must be marketed *in a timely way* on platforms open to the public.",
+    "It covers both *home sales and rentals*.",
+    "Sellers and landlords can still opt out, but only by signing a *state disclosure form*.",
+    "The form warns of fewer buyers, fewer offers and a *possibly lower price*."
+   ]
+  },
+  {
+   "type": "stat",
+   "kicker": "The stakes",
+   "big": "$5,000",
+   "label": "top fine for agents who *break the rule*",
+   "body": "Violations can also lead to a suspended or revoked license. Connecticut signed a similar opt-out law in May."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Seller choice, *on paper*",
+   "body": "Private and early-access marketing is not banned, but it now requires a signed, plain-language warning. Walking sellers through the trade-offs in writing is becoming the norm.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

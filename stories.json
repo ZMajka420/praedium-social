@@ -302,14 +302,6 @@
    "angle": "Rate-locked clients tapping equity instead of moving; pair with ICE/Nomura second-lien data"
   },
   {
-   "found": "2026-11-24",
-   "title": "NY Gov. Hochul signed S10274 (Nov 20): listings must be publicly marketed unless seller gives informed written direction after a standardized state disclosure; NY joins WA, CT, WI. Also FHFA condo reserve rule (10% to 15%) effective Jan 4 2027, groups seek delay",
-   "sources": [
-    "Real Estate News, Nov 23 2026: https://www.realestatenews.com/2026/11/23/affordability-act-advances-ny-private-listings-bill-becomes-law"
-   ],
-   "angle": "Private listing rules spreading state by state; check Illinois status. Effective date not in article, verify"
-  },
-  {
    "found": "2026-11-25",
    "title": "Buyer demand hit a 3-year low in Q3 as rates jumped (figures not yet fetched; verify)",
    "sources": [
@@ -374,6 +366,14 @@
     "https://www.manilatimes.net/2026/11/26/tmt-newswire/globenewswire/mortgage-rates-dip-to-721/2478243"
    ],
    "angle": "Rate watch; overlaps recent rate posts, use only if rates break below 7%"
+  },
+  {
+   "found": "2026-11-27",
+   "title": "Chase launches Cyber Monday rate sale for purchase and refi loans (details not yet fetched; verify)",
+   "sources": [
+    "HousingWire, Nov 27 2026: https://www.housingwire.com/articles/chase-rate-sale-cyber-monday/"
+   ],
+   "angle": "Lender promos as a buyer talking point; strictly factual, no rate advice"
   }
  ]
 }
