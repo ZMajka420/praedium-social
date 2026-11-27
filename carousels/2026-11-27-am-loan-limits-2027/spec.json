@@ -1,0 +1,51 @@
+{
+ "source": "FHFA 2027 conforming loan limit release; HousingWire; NAHB",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Mortgage finance",
+   "headline": [
+    "Loan limits rise",
+    "to *$855,400*"
+   ],
+   "fig": "+2.72%",
+   "fig_caption": "Rise in the baseline limit for 2027",
+   "sub": "That is $22,650 more than 2026, but a smaller bump than last year."
+  },
+  {
+   "type": "stat",
+   "kicker": "High-cost areas",
+   "big": "$1,283,100",
+   "label": "new one-unit ceiling in *high-cost* counties",
+   "body": "That is 150% of the baseline. Higher limits apply where 115% of the local median home value exceeds the baseline."
+  },
+  {
+   "type": "bars",
+   "kicker": "The annual reset",
+   "title": "How much the limit *rose*",
+   "bars": [
+    [
+     "2026",
+     3.25
+    ],
+    [
+     "2027",
+     2.72
+    ]
+   ],
+   "prefix": "+",
+   "unit": "%",
+   "highlight": [
+    "2027"
+   ],
+   "note": "The increase mirrors FHFA's house price index from Q3 2025 to Q3 2026. Limits go up in *all but 24 counties*."
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "More room for *conforming*",
+   "body": "Buyers needing a loan between $832,750 and $855,400 can stay conforming instead of going jumbo in 2027. Some lenders already lend above the old limit, so loop in a loan officer early.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

@@ -254,24 +254,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-19",
-   "title": "Freddie Mac 30-yr rises to 7.28% (from 7.11%), ending a four-week decline; 15-yr 6.66%; year ago 6.26%. MND daily 7.45% Nov 19; CME FedWatch overwhelmingly expects a 25 bp December hike; MBA purchase apps -7% YoY, refi -54% YoY (week ending Nov 13)",
-   "sources": [
-    "Freddie Mac via GlobeNewswire, Nov 19 2026: https://www.globenewswire.com/news-release/2026/11/19/3406994/0/en/mortgage-rates-average-7-28.html",
-    "Real Estate News, Nov 19 2026: https://www.realestatenews.com/2026/11/19/a-tough-backdrop-for-mortgage-rates-as-holiday-slowdown-begins"
-   ],
-   "angle": "Rates turn back up into holiday slowdown; overlaps Nov 15 rates post, use only with a fresh hook"
-  },
-  {
-   "found": "2026-11-21",
-   "title": "Redfin weekly (4 wks ending Nov 15 2026): pending sales 276,187, down 15.3% YoY, lowest in Redfin records (since 2021), down YoY in every metro analyzed; median monthly payment $2,723 at 7.11%, lowest in nearly 2 months; median sale price $388,516 (-0.4% YoY, 4th straight weekly decline); months of supply 4.8; price-drop share 20.7%",
-   "sources": [
-    "Redfin via PR Newswire/Finviz, Nov 19 2026: https://finviz.com/news/425149/monthly-housing-payments-fell-to-lowest-level-in-nearly-2-months-but-rates-are-climbing-again",
-    "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip"
-   ],
-   "angle": "Overlaps Nov 18 pending-record-low post; use only with a fresh hook. No Chicago figures"
-  },
-  {
    "found": "2026-11-21",
    "title": "NAR Professional Standards Committee releases 'AI and the Realtor Code of Ethics: 11 Risks Every Realtor Should Know' (living document) and 'The Code of Ethics is Good Business' with buyer-agent and listing-agent checklists mapping Standards of Practice to each transaction stage; associations asked to add to new-agent orientations",
    "sources": [
@@ -375,6 +357,23 @@
     "HousingWire, Nov 25 2026: https://www.housingwire.com/articles/costar-photographers-ibew-union/"
    ],
    "angle": "Listing photo/media vendors; Homes.com"
+  },
+  {
+   "found": "2026-11-27",
+   "title": "S&P Cotality Case-Shiller September 2026: national index +2.1% YoY; Chicago leads for a sixth straight month at +6.9%. FHFA HPI flat in September, +2.5% YoY, record 444.4 (figures from search snippets; verify)",
+   "sources": [
+    "https://calculatedrisk.substack.com/p/case-shiller-national-house-price-3e2",
+    "https://www.fhfa.gov/reports/house-price-index"
+   ],
+   "angle": "Chicago price leadership; overlaps Nov 24 AM Chicago Case-Shiller post, use after Dec 8 or with a fresh hook"
+  },
+  {
+   "found": "2026-11-27",
+   "title": "Freddie Mac 30-yr dips to 7.21% the week of Thanksgiving (Nov 25 release; verify figures and 15-yr)",
+   "sources": [
+    "https://www.manilatimes.net/2026/11/26/tmt-newswire/globenewswire/mortgage-rates-dip-to-721/2478243"
+   ],
+   "angle": "Rate watch; overlaps recent rate posts, use only if rates break below 7%"
   }
  ]
 }
