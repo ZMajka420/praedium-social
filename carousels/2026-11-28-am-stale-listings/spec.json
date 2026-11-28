@@ -1,0 +1,41 @@
+{
+ "source": "Clever Real Estate study via Real Estate News",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Listing strategy",
+   "headline": [
+    "Why listings are",
+    "*sitting longer*"
+   ],
+   "fig": "51",
+   "fig_caption": "Median days on market in Sept. 2026, up from 27 in March 2022",
+   "sub": "A new study asked buyers, agents and online forums what keeps homes from selling."
+  },
+  {
+   "type": "stat",
+   "kicker": "The buyer's view",
+   "big": "43%",
+   "label": "of would-be buyers say a long time on market makes a listing look *suspicious*",
+   "body": "From a survey of 1,000 adults planning to buy a home in the next five years."
+  },
+  {
+   "type": "points",
+   "kicker": "What the forums say",
+   "title": "Price first, *then the rest*",
+   "points": [
+    "Half of 2026 posts about stale listings urged *another price cut*, up from 38% in 2024.",
+    "Sellers who cut reported a median reduction of *$20,000*.",
+    "Suggestions to renovate or repaint rose *67%* from 2024 to 2026.",
+    "67% of buyers would choose a *better location* over a better home."
+   ]
+  },
+  {
+   "type": "cta",
+   "kicker": "What it means for agents",
+   "title": "Win it in *the first weeks*",
+   "body": "Agents themselves name overpricing as the top culprit. Set the price with fresh comps, fix what buyers will notice, and talk through a reduction plan before the days start piling up.",
+   "cta": "Follow for daily market intel"
+  }
+ ]
+}

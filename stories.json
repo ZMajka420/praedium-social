@@ -254,14 +254,6 @@
  ],
  "backlog": [
   {
-   "found": "2026-11-21",
-   "title": "NAR Professional Standards Committee releases 'AI and the Realtor Code of Ethics: 11 Risks Every Realtor Should Know' (living document) and 'The Code of Ethics is Good Business' with buyer-agent and listing-agent checklists mapping Standards of Practice to each transaction stage; associations asked to add to new-agent orientations",
-   "sources": [
-    "Real Estate News, Nov 20 2026: https://www.realestatenews.com/2026/11/20/new-resources-tie-nars-code-of-ethics-to-ai-use-transactions"
-   ],
-   "angle": "Practical checklists for agents; AI part overlaps Nov 16 AI post, lead with the transaction checklists. Fetch the PDFs for article numbers"
-  },
-  {
    "found": "2026-11-22",
    "title": "Senate passes BAAJA housing permitting bill 62-33 (narrows NEPA triggers, caps delays, limits duplicative reviews for federally backed housing); House/next steps not yet verified",
    "sources": [
@@ -352,10 +344,11 @@
   },
   {
    "found": "2026-11-27",
-   "title": "S&P Cotality Case-Shiller September 2026: national index +2.1% YoY; Chicago leads for a sixth straight month at +6.9%. FHFA HPI flat in September, +2.5% YoY, record 444.4 (figures from search snippets; verify)",
+   "title": "S&P Cotality Case-Shiller September 2026: national index +2.1% YoY; Chicago leads for a sixth straight month at +6.9%. FHFA HPI flat in September, +2.5% YoY, record 444.4 (figures from search snippets; verify). Also Redfin Home Price Index Oct 2026 (Nov 24): national +0.14% MoM, +3.5% YoY; Chicago +1.1% MoM and +9.5% YoY, third-largest gains of top 50 metros (verified Nov 28)",
    "sources": [
     "https://calculatedrisk.substack.com/p/case-shiller-national-house-price-3e2",
-    "https://www.fhfa.gov/reports/house-price-index"
+    "https://www.fhfa.gov/reports/house-price-index",
+    "https://www.redfin.com/news/home-price-index-october-2026/"
    ],
    "angle": "Chicago price leadership; overlaps Nov 24 AM Chicago Case-Shiller post, use after Dec 8 or with a fresh hook"
   },
@@ -374,6 +367,16 @@
     "HousingWire, Nov 27 2026: https://www.housingwire.com/articles/chase-rate-sale-cyber-monday/"
    ],
    "angle": "Lender promos as a buyer talking point; strictly factual, no rate advice"
+  },
+  {
+   "found": "2026-11-28",
+   "title": "Open Real Estate: AGNT, HomeServices, Keller Williams and REMAX launched a national shared listing-data initiative (Oct 26); Nov 27 HousingWire column debates neutral governance and its 'participant view option'",
+   "sources": [
+    "https://www.housingwire.com/articles/open-real-estate-data-initiative/",
+    "https://www.housingwire.com/articles/open-real-estate-national-mls/",
+    "https://www.inman.com/2026/11/03/open-real-estate-who-controls-the-feed-and-who-gets-paid/"
+   ],
+   "angle": "Listing-access explainer; pairs with NY private-listings law; strictly factual, fetch launch details first"
   }
  ]
 }
